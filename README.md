@@ -1,3 +1,4 @@
+
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head profile="http://www.w3.org/2006/03/hcard">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
@@ -8,17 +9,6 @@
                 param.style.display = (param.style.display == "none") ? "" : "none";
             } 
         </script>
-        <meta name="google-site-verification" content="SScFqZG6dCepkNSoYQ-vwjMLBW_54QotpeupecG2fLI" />
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-55227794-2"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag() { dataLayer.push(arguments); }
-            gtag('js', new Date());
-
-            gtag('config', 'UA-55227794-2');
-        </script>
-    </head>
             <img class="picture-border photo" src="jiakang.jpg" height="220px" width="290px"/>
             
             <div class="content">
