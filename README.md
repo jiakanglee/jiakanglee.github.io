@@ -1,14 +1,13 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head profile="http://www.w3.org/2006/03/hcard">
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type" /
         <title>Jiakang Li,Lanzhou University</title>
         <script type="text/javascript">
             function expand(param) {
                 param.style.display = (param.style.display == "none") ? "" : "none";
             } 
         </script>
-            
+            <img class="picture-border photo" src="zhaoran.png" height="280px" width="280px"/>
             <div class="content">
                 <p style="margin-top: 0px;">I am a junior student studying,in the <a href="http://xxxy.lzu.edu.cn/">Department of Information Science and Engineer </a>  (by courtesy) at  Lanzhou University(since 2018). I am affiliated with the <a href="http://xxxy.lzu.edu.cn/jigoushezhi/xisuoshezhi/2020/1014/139911.html"> Centers for Computer Software and Theory </a> with <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> Yonggang Lu </a> </p> 
 
