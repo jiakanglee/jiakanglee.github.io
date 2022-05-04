@@ -17,7 +17,7 @@
                 <div>
                 
                 
-          
+                <div>
                     <h2>Research Interest</h2>
                     
                     I'm currently researching on Machine Learning,especially for <font face="MyriadProRegular" color = "#CC0829">Clustering Algorihthm</font> methods, theory, for which I'm trying to apply on  <font face="MyriadProRegular" color = "#CC0829">Social Network</font>. To this end, my research aims at: 
