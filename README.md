@@ -1,9 +1,4 @@
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-    <head profile="http://www.w3.org/2006/03/hcard">
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-        <link href="zrwang.css" rel="stylesheet" type="text/css" />
-        <title>Zhaoran Wang, Northwestern University</title>
         <script type="text/javascript">
             function expand(param) {
                 param.style.display = (param.style.display == "none") ? "" : "none";
