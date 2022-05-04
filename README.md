@@ -14,11 +14,12 @@
                 <div>
                     <h2>Personal CV/resume</h2>    
                 <a href="https://github.com/jiakanglee/jiakanglee.github.io/blob/main/Jiakang%20Li_resume.pdf">My resume </a>
-                
+                <div>
                 
                 
           
-                    <h2>Research Interest</h2>  
+                    <h2>Research Interest</h2>
+                    
                     I'm currently researching on Machine Learning,especially for <font face="MyriadProRegular" color = "#CC0829">Clustering Algorihthm</font> methods, theory, for which I'm trying to apply on  <font face="MyriadProRegular" color = "#CC0829">Social Network</font>. To this end, my research aims at: 
                     <ul>
                         <li>Machine Learning Cluster Algorithm, both <font face="MyriadProRegular" >practically</font> and <font face="MyriadProRegular">theoretically</font>, in a principled manner to enable its applications in critical domains;</li>
