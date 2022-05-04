@@ -1,7 +1,7 @@
 ## Jiakang Li's homepage
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+"https://jiakanglee.github.io/">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head profile="http://www.w3.org/2006/03/hcard">
@@ -11,12 +11,7 @@
         <script type="text/javascript">
             function expand(param) {
                 param.style.display = (param.style.display == "none") ? "" : "none";
-            } 
-        </script>
-        <meta name="google-site-verification" content="SScFqZG6dCepkNSoYQ-vwjMLBW_54QotpeupecG2fLI" />
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-55227794-2"></script>
-        <script>
+            }
             window.dataLayer = window.dataLayer || [];
             function gtag() { dataLayer.push(arguments); }
             gtag('js', new Date());
@@ -25,36 +20,6 @@
         </script>
     </head>
 
-    <body>
-        <div class="container700 vcard">
-            <div class="titletext">
-                Zhaoran Wang
-            </div>
-
-            <div id="section-links">
-                <div class="sectionContainer">
-                    <!--<div class="section">
-                        <a href=
-                        "publication.html">
-                            Publication</a>
-                    </div>-->
-                    <div class="section">
-                        <a href=
-                        "https://scholar.google.com/citations?user=HSx0BgQAAAAJ&hl=en">
-                            Google Scholar</a>
-                    </div>                    
-                    <div class="section">
-                        <a href=
-                        "http://twitter.com/zhaoran_wang">
-                            Twitter</a>
-                    </div>                  
-                    <br/>
-                    <div class="section">Contact:<br/>
-                        zhaoranwang<br/> 
-                        /æt/ gmail.com
-                    </div>
-                </div>
-            </div>
 
             <img class="picture-border photo" src="zhaoran.png" height="220px" width="142px"/>
 
