@@ -14,8 +14,17 @@
                 <div>
                     <h2>Personal CV/resume</h2>    
                 <a href="https://github.com/jiakanglee/jiakanglee.github.io/blob/main/Jiakang%20Li_resume.pdf">My resume </a>
+                
+                    
                 <div>
                 
+                <div>
+                    <h2>Contact info</h2>
+                    Email:ljiakang0527@gmail.com/jkli19@lzu.edu.cn
+                <div>    
+                    
+                    
+                    
                 
                 <div>
                     <h2>Research Interest</h2>
