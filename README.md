@@ -21,7 +21,7 @@
     </head>
 
 
-            <img class="picture-border photo" src="jiakang.jpg" height="220px" width="142px"/>
+            <img class="picture-border photo" src="jiakang.jpg" height="220px" width="220px"/>
 
             <div class="content">
                 <p style="margin-top: 0px;">I am an assistant professor in the Departments of <a href="https://www.mccormick.northwestern.edu/industrial">Industrial Engineering & Management Sciences</a> and <a href="https://www.mccormick.northwestern.edu/computer-science/">Computer Science</a> (by courtesy) at Northwestern University (since 2018). I am affiliated with the Centers for <a href="https://www.mccormick.northwestern.edu/research/deep-learning/">Deep Learning</a> and <a href="https://www.mccormick.northwestern.edu/research/optimization-machine-learning-center/">Optimization & Statistical Learning</a>.</p>
