@@ -10,6 +10,7 @@
         </script>
             <img class="picture-border photo" src="jiakang.jpg" height="220px" width="290px"/>
             <div class="content">
+                <h2>About Me</h2>
                 <p style="margin-top: 0px;">I am a junior student studying,in the <a href="http://xxxy.lzu.edu.cn/">Department of Information Science and Engineer </a>  (by courtesy) at  Lanzhou University(since 2019). I am affiliated with the <a href="http://xxxy.lzu.edu.cn/jigoushezhi/xisuoshezhi/2020/1014/139911.html"> Centers for Computer Software and Theory </a> with Professor <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> Yonggang Lu </a> </p> 
                 <div>
                     <h2>Personal CV/resume</h2>
