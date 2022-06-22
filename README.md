@@ -35,7 +35,7 @@
                 <div>
                     <h2>Research Experience</h2> 
                     • Research Intern at Lanzhou University with Advisor: professor Yonggang Lu 
-                    JAN 2022 – Present 
+                    Jan 2022 – Present 
                     Revised Medoid Based on Knn:Applying on Social Network Introduced k-nearest neighbour to traditional medoid algorithm. 
                     Bring a new insight to machine learning on community detection. 
                     Effectively improve efficiency compared with some state-of-the-art community detection method and medoid algorithm based on radius on large scale datasets.
