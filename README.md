@@ -35,7 +35,7 @@
                     I'm currently researching on Machine Learning,especially for <font face="MyriadProRegular" color = "#CC0829">Clustering Algorihthm</font> methods, theory, for which I'm trying to apply on  <font face="MyriadProRegular" color = "#CC0829">Social Network</font>. To this end, my research aims at: 
                     <ul>
                         <li>Machine Learning Cluster Algorithm, both <font face="MyriadProRegular" >practically</font> and <font face="MyriadProRegular">theoretically</font>, in a principled manner to enable its applications in critical domains;</li>
-                        <li>Machine Learning Cross subject area including <font face="MyriadProRegular">Data</font> privacy, also with those involving <font face="MyriadProRegular">graph</font> and/or <font face="MyriadProRegular">other research areas</font> among everyday life</li>
+                        <li>Machine Learning on data/model privacy/security,especially with those involving graph and/or other research areas among everyday life</li>
                     </ul>
                     With this aim in mind, my research interests span across machine learning.
                 </div>
