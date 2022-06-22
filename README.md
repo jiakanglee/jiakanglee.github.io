@@ -13,9 +13,10 @@
                 <h2>About Me</h2>
                 <p style="margin-top: 0px;">I am a junior student studying,in the <a href="http://xxxy.lzu.edu.cn/">Department of Information Science and Engineer </a>  (by courtesy) at  Lanzhou University(since 2019). I am affiliated with the <a href="http://xxxy.lzu.edu.cn/jigoushezhi/xisuoshezhi/2020/1014/139911.html"> Centers for Computer Software and Theory </a> with Professor <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> Yonggang Lu </a> </p> 
                 <div>
-                    <h2>Personal CV/resume</h2>
+                    <h2>CV/resume</h2>
                     
-                <a href="https://github.com/jiakanglee/jiakanglee.github.io/blob/main/Jiakang%20Li_resume.pdf">My resume </a>
+                <a href="https://github.com/jiakanglee/jiakanglee.github.io/blob/main/Jiakang%20Li_resume.pdf">My personal resume </a> <br>
+                <a href="">My Academic resume </a>
                 
                     
                 <div>
@@ -29,15 +30,15 @@
                     
                 <div>
                     <h2>Work Experience</h2>
-                    •Algorithm intern at Trip(<a href = "https://www.trip.com/">携程</a>-Biggest OTA in Asia and Third OTA in the world)
+                    •Algorithm intern at Trip(<a href = "https://www.trip.com/">携程</a>-Biggest OTA in Asia and Third OTA in the world) <br>
                     Jun 2022 -present
                 </div>
                 <div>
                     <h2>Research Experience</h2> 
-                    • Research Intern at Lanzhou University with Advisor: professor Yonggang Lu 
-                    Jan 2022 – Present 
-                    Revised Medoid Based on Knn:Applying on Social Network Introduced k-nearest neighbour to traditional medoid algorithm. 
-                    Bring a new insight to machine learning on community detection. 
+                    • Research Intern at Lanzhou University with Advisor: professor Yonggang Lu <br>
+                    Jan 2022 – Present <br>
+                    Revised Medoid Based on Knn:Applying on Social Network Introduced k-nearest neighbour to traditional medoid algorithm. <br>
+                    Bring a new insight to machine learning on community detection. <br>
                     Effectively improve efficiency compared with some state-of-the-art community detection method and medoid algorithm based on radius on large scale datasets.
                     
                 </div>
