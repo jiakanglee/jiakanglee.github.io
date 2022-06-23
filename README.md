@@ -15,8 +15,8 @@
                 <div>
                     <h2>CV/resume</h2>
                     
-                <a href="https://github.com/jiakanglee/jiakanglee.github.io/blob/main/Jiakang%20Li_Academic%20Resume.pdf">My personal resume </a> <br>
-                <a href="https://github.com/jiakanglee/jiakanglee.github.io/blob/main/Jiakang%20Li_Resume.pdf">My Academic resume </a>
+               
+                <a href="https://github.com/jiakanglee/jiakanglee.github.io/blob/main/Jiakang%20Li_Resume.pdf">My Resume </a>
                 
                     
                 <div>
