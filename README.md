@@ -36,9 +36,10 @@
                 </div>
                 <div>
                     <h2>Research Experience</h2> 
-                    • Research Intern at Lanzhou University with Advisor: professor Yonggang Lu    from Jan 2022 to April 2023<br>
-                    The method's contributions include: <br>
+                    • Research Intern at Lanzhou University with Advisor: professor Yonggang Lu   <br> 
+                    from Jan 2022 to April 2023<br>
                     Community Detection Using Revised Medoid-Shift Based on KNN. <br>
+                    The method's contributions include: <br>
                     Introducing the concept of Medoid-Shift to community detection for the first time.<br>
                     By introducing KNN into the Medoid-Shift method, a novel RMS method is proposed for community detection.<br>
                     Compared to the original Medoid-Shift method, the proposed method can perform community detection more effectively                   
