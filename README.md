@@ -11,7 +11,8 @@
             <img class="picture-border photo" src="jiakang.jpg" height="220px" width="290px"/>
             <div class="content">
                 <h2>About Me</h2>
-                <p style="margin-top: 0px;">I was a undergraduate student studying in the <a href="http://xxxy.lzu.edu.cn/">Department of Information Science and Engineer </a>  (by courtesy) at  Lanzhou University(since 2019) majoring in CS. I am affiliated with the <a href="http://xxxy.lzu.edu.cn/jigoushezhi/xisuoshezhi/2020/1014/139911.html"> Centers for Computer Software and Theory </a> with Professor <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> </a>Yonggang Lu. I'm currently serving as a visiting scholar in Westlake University affiliated with Assistant Professor <a href="https://www.westlake.edu.cn/faculty/fajie-yuan.html"> Fajie Yuan</a> researching on AI + Biology</p> 
+                <p style="margin-top: 0px;">I was a undergraduate student studying in the <a href="http://xxxy.lzu.edu.cn/">Department of Information Science and Engineer </a>  (by courtesy) at  Lanzhou University(since 2019) majoring in CS. I am affiliated with the <a href="http://xxxy.lzu.edu.cn/jigoushezhi/xisuoshezhi/2020/1014/139911.html"> Centers for Computer Software and Theory </a> with Professor <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> Yonggang Lu </a>.  <br>
+                    I'm currently serving as a visiting scholar in Westlake University affiliated with Assistant Professor <a href="https://www.westlake.edu.cn/faculty/fajie-yuan.html"> Fajie Yuan</a> researching on AI + Biology</p> 
                 <div>
                     <h2>CV/resume</h2>
                     
