@@ -11,7 +11,7 @@
             <img class="picture-border photo" src="jiakang.jpg" height="220px" width="290px"/>
             <div class="content">
                 <h2>About Me</h2>
-                <p style="margin-top: 0px;">I was a undergraduate student studying in the <a href="http://xxxy.lzu.edu.cn/">Department of Information Science and Engineer </a>  (by courtesy) at  Lanzhou University(since 2019) majoring in CS. I am affiliated with the <a href="http://xxxy.lzu.edu.cn/jigoushezhi/xisuoshezhi/2020/1014/139911.html"> Centers for Computer Software and Theory </a> with Professor <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> </a>Yonggang Lu. I'm currently serving as a visiting scholar in Westlake University affiliated with Assistant Professor <a href="https://www.westlake.edu.cn/faculty/fajie-yuan.html"> Fajie Yuan</a> researing on AI + Biology</p> 
+                <p style="margin-top: 0px;">I was a undergraduate student studying in the <a href="http://xxxy.lzu.edu.cn/">Department of Information Science and Engineer </a>  (by courtesy) at  Lanzhou University(since 2019) majoring in CS. I am affiliated with the <a href="http://xxxy.lzu.edu.cn/jigoushezhi/xisuoshezhi/2020/1014/139911.html"> Centers for Computer Software and Theory </a> with Professor <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> </a>Yonggang Lu. I'm currently serving as a visiting scholar in Westlake University affiliated with Assistant Professor <a href="https://www.westlake.edu.cn/faculty/fajie-yuan.html"> Fajie Yuan</a> researching on AI + Biology</p> 
                 <div>
                     <h2>CV/resume</h2>
                     
@@ -35,8 +35,8 @@
                 </div>
                 <div>
                     <h2>Research Experience</h2> 
-                    • Research Intern at Lanzhou University with Advisor: professor Yonggang Lu <br>
-                    Jan 2022 – Present <br>
+                    • Research Intern at Lanzhou University with Advisor: professor Yonggang Lu    from Jan 2022 to April 2023<br>
+                    The method's contributions include: <br>
                     Community Detection Using Revised Medoid-Shift Based on KNN. <br>
                     Introducing the concept of Medoid-Shift to community detection for the first time.<br>
                     By introducing KNN into the Medoid-Shift method, a novel RMS method is proposed for community detection.<br>
