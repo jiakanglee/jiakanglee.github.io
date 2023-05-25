@@ -48,10 +48,10 @@ The order to take up resources,and push up the process <br>
                 <div>
                     <h2>Research Interest</h2>
                     
-                    I'm currently researching on NLP problem,especially for <font face="MyriadProRegular" color = "#CC0829">NLP + Biology</font> methods, for which I'm trying to apply on  <font face="MyriadProRegular" color = "#CC0829">Protein Design</font>. To this end, my research aims at: 
+                    I'm currently researching on NLP problem, especially for <font face="MyriadProRegular" color = "#CC0829">NLP + Biology</font> methods, for which I'm trying to apply on  <font face="MyriadProRegular" color = "#CC0829">Protein Design</font>. To this end, my research aims at: 
                     <ul>
                         <li>Machine Learning Cluster Algorithm, both <font face="MyriadProRegular" >practically</font> and <font face="MyriadProRegular">theoretically</font>, in a principled manner to enable its applications in critical domains;</li>
-                        <li>Machine Learning on data/model privacy/security, especially with those involving graph and/or other research areas among everyday life;</li>
+                        <li>Machine Learning on data/model privacy/security, especially with those involving graph and other research areas among everyday life;</li>
                         <li>Deep Learning on NLP, especially for problems involving biological problems</li>
                     </ul>
                     With this aim in mind, my research interests span across machine learning and AI for Biology.
