@@ -21,7 +21,8 @@
                 <div>
                     <h2>Contact info</h2>
                     
-                    Email:ljiakang0527@gmail.com/jkli19@lzu.edu.cn
+                    Email:ljiakang0527@gmail.com/jkli19@lzu.edu.cn <br>
+                    <a href = "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AHoSzlX67aTkED8GEn4Au2zd22QONwKrDSjIMYVmgRF94JXZ_MQ8jR7IPcJPKTMgqg3hx_7DkZLXMNHvijUfxQ&user=FVJO7aAAAAAJ"My Google Scholar </a> can be found in: 
                 <div>    
                     
                     
