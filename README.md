@@ -33,7 +33,7 @@
                     <h2>Work Experience</h2>
                     •Intern in Trip(<a href = "https://www.trip.com/">携程</a>-Biggest OTA in Asia) from Jun 2022 - Oct 2022 <br>
                      I served as a Machine Learning Engineer Intern in Trip, during which time I helped to build the model to predict the price of airlines. Also I was responsible to evaluate the accuracy of model which is to recognize malicious users who reserve airline tickets and cancel
-The order to take up resources,and push up the process <br> 
+The order to take up resources, and push up the process <br> 
                 </div>
                     
                 <div>
