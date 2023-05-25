@@ -35,11 +35,11 @@
                      I served as a Machine Learning Engineer Intern in Trip, during which time I helped to build the model to predict the price of airlines. Also I was responsible to evaluate the accuracy of model which is to recognize malicious users who reserve airline tickets and cancel
 The order to take up resources,and push up the process <br> 
                 </div>
+                    
                 <div>
                     <h2>Research Experience</h2> 
                     • Research Intern at Lanzhou University with advisor professor Yonggang Lu  from Jan 2022 to April 2023 <br> 
-                    The research project is entitled as "Community Detection Using Revised Medoid-Shift Based on KNN" and It has been accepted by ICIC 2023(CCF-C) with me signing as first author <br>
-                    The arxiv version of the paper can be found in: https://arxiv.org/abs/2304.09512 <br>
+                    The research project is entitled as "Community Detection Using Revised Medoid-Shift Based on KNN" and It has been accepted by ICIC 2023(CCF-C) with me signing as first author. The arxiv version of the paper can be found in: https://arxiv.org/abs/2304.09512 <br>
                     The method's contributions include: <br>
                     Introducing the concept of Medoid-Shift to community detection for the first time.<br>
                     By introducing KNN into the Medoid-Shift method, a novel RMS method is proposed for community detection.<br>
@@ -51,7 +51,7 @@ The order to take up resources,and push up the process <br>
                     I'm currently researching on NLP problem,especially for <font face="MyriadProRegular" color = "#CC0829">NLP + Biology</font> methods, for which I'm trying to apply on  <font face="MyriadProRegular" color = "#CC0829">Protein Design</font>. To this end, my research aims at: 
                     <ul>
                         <li>Machine Learning Cluster Algorithm, both <font face="MyriadProRegular" >practically</font> and <font face="MyriadProRegular">theoretically</font>, in a principled manner to enable its applications in critical domains;</li>
-                        <li>Machine Learning on data/model privacy/security,especially with those involving graph and/or other research areas among everyday life;</li>
+                        <li>Machine Learning on data/model privacy/security, especially with those involving graph and/or other research areas among everyday life;</li>
                         <li>Deep Learning on NLP, especially for problems involving biological problems</li>
                     </ul>
                     With this aim in mind, my research interests span across machine learning and AI for Biology.
