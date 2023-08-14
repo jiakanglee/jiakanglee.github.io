@@ -39,16 +39,16 @@
                 
                 <div>
                     <h2>Education background</h2>
-                    •**Lanzhou University** <br>
+                    •<strong>Lanzhou University</strong> <br>
                     Sep 2019 - July 2023 <br>
                     Bachelor in Computer and Science, Lanzhou <br>
                     <br>
-                    •**University of California, Berkeley** 
+                    •<strong>University of California, Berkeley</strong> <br>
                     Jan 2021 - May 2021 <br>
                     Exchange in Spring semester 2021, EECS. 
                     <br>CS188(A-) advised by <a href = "https://people.eecs.berkeley.edu/~dawnsong/?_ga=2.129150796.196941228.1691992345-192521382.1691572979"> Dawn Song </a>and <a href = "http://people.eecs.berkeley.edu/~russell/"> Stuart Russell </a>, CS288(audit), DATA100(audit)<br>
                     <br>
-                    •**MIT** <br> 
+                    •<strong>MIT</strong> <br> 
                     Jan 2021 to Feb 2021 <br>
                     Prospective course on vision science advised by Dr.<a href = "http://www.shaiyan.com/"> Shaiyan Keshvari </a>and Dr.<a href = "https://www.deryaakkaynak.com/"> Derya Akkaynak </a>. <br>
                 </div>
