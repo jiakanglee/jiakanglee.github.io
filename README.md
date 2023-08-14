@@ -16,7 +16,7 @@
                     My <a href="https://github.com/jiakanglee/jiakanglee.github.io/blob/main/Jiakang%20Li%20CV.pdf"> Resume </a> <br>
                     My <a href = "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AHoSzlX67aTkED8GEn4Au2zd22QONwKrDSjIMYVmgRF94JXZ_MQ8jR7IPcJPKTMgqg3hx_7DkZLXMNHvijUfxQ&user=FVJO7aAAAAAJ"> Google Scholar </a>  <br>
                     My <a href = " https://www.researchgate.net/profile/Jiakang-Li-2"> Research Gate </a> <br>
-                    My <a href = " https://github.com/jiakanglee"> Github</a>
+                    My <a href = " https://github.com/jiakanglee"> Github</a> 
                  </p> 
 
                 <div>
@@ -25,14 +25,6 @@
                     •I gave an oral presentation at ICIC2023 - Aug 12th 2023<br>
                     <br>
                     •Our ICIC 2023 paper was recommended to NeuroComputing! - Aug 8th 2023<br>
-                    <br>
-
-                <div>
-                
-                <div>
-                    <h2>Contact info</h2>
-                    
-                    Email:ljiakang0527@gmail.com/jkli19@lzu.edu.cn <br>
                     <br>
 
                 <div>   
@@ -86,5 +78,25 @@
                     </ul>
                 </div>
 
+                <div>
+                    <h2>Contact info</h2>
+                    
+                    Email:ljiakang0527@gmail.com/jkli19@lzu.edu.cn <br>
+                    <br>
+                <div>
+                
+                <div>
+                    <h2>Besides study</h2>
+                    
+                    •I'm a broadcaster on Tiktok!<br>
+                    I have been running a Tiktok account doing contents about AOV（Arena of Valor）/王者荣耀 with 200+ followers now! As for my competence, the highest rank for the ranked match is 'Lengendary King' and the highest Peak Tournament(巅峰赛) I have once reached is 2282. At the mean time, 68-Lane Battle, 60-Lane Roaming, 58-Lane Jungle witness my ability to excel in Moba games. It's worth mentioning that I was once in compliance with professional player Wolf.Xiao Pang(狼队小胖) and national-famous broadcaster Lala (快手辣辣).
+                    <br>
+                    •I love singing!<br>
+                    I have received a lot of friends' compliment on singing :), but I haven't got the time yet to test out that in a campaign :( !
+                    <br>
+                    •I'm an organizer!<br>
+                    I'm the FOUNDER of the <a href = "https://lzufly.github.io/"> Lanzhou University Flyer organization </a>, and serve as a bridge between the graduated and the undergraduate in Lanzhou University <br>
+                <div>
+                
                 <p class="section-title" style="font-size:140%;">
                 
