@@ -11,7 +11,7 @@
             <img class="picture-border photo" src="jiakang.jpg" height="220px" width="290px"/>
             <div class="content">
                 <h2>About Me</h2>
-                <p style="margin-top: 0px;">I'm currently serving as a visiting student in Westlake University affiliated with Assistant Professor <a href="https://www.westlake.edu.cn/faculty/fajie-yuan.html"> Fajie Yuan</a> researching on AI + Biology. Before that I was an undergraduate student studying in the <a href="http://xxxy.lzu.edu.cn/">Department of Information Science and Engineer </a>  (by courtesy) at  Lanzhou University(since 2019) majoring in CS. I was affiliated with the <a href="http://xxxy.lzu.edu.cn/jigoushezhi/xisuoshezhi/2020/1014/139911.html"> Centers for Computer Software and Theory </a> with Professor <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> Yonggang Lu </a>.  <br>
+                <p style="margin-top: 0px;">I'm currently serving as a visiting student in Westlake University affiliated with Assistant Professor <a href="https://www.westlake.edu.cn/faculty/fajie-yuan.html"> Fajie Yuan</a> researching on AI + Biology. Before that I was an undergraduate student studying in the <a href="http://xxxy.lzu.edu.cn/">Department of Information Science and Engineer </a>  (by courtesy) at  Lanzhou University(since 2019) majoring in CS and I was affiliated with the <a href="http://xxxy.lzu.edu.cn/jigoushezhi/xisuoshezhi/2020/1014/139911.html"> Centers for Computer Software and Theory </a> with Professor <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> Yonggang Lu </a>.  <br>
                     <br>
                     <a href="https://github.com/jiakanglee/jiakanglee.github.io/blob/main/Jiakang%20Li%20CV.pdf">My Resume </a> <br>
                     My <a href = "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AHoSzlX67aTkED8GEn4Au2zd22QONwKrDSjIMYVmgRF94JXZ_MQ8jR7IPcJPKTMgqg3hx_7DkZLXMNHvijUfxQ&user=FVJO7aAAAAAJ"> Google Scholar </a>  <br>
@@ -23,7 +23,8 @@
                     <h2>NEWS</h2>
                     
                     •I gave an oral presentation at ICIC2023, Zhengzhou. Aug 12th 2023<br>
-                    •Our ICIC2023 paper was recommended to NeuroComputing!. Aug 8th 2023<br>
+                    <br>
+                    •Our ICIC 2023 paper was recommended to NeuroComputing! Aug 8th 2023<br>
                     <br>
 
                 <div>
@@ -34,19 +35,38 @@
                     Email:ljiakang0527@gmail.com/jkli19@lzu.edu.cn <br>
                     <br>
 
-                <div>    
-                    
+                <div>   
+                
+                <div>
+                    <h2>Education background</h2>
+                    •Lanzhou University. Sep 2019 - July 2023 <br>
+                    Bachelor in Computer and Science, Lanzhou <br>
+                    <br>
+                    •University of California, Berkeley. Jan 2021 - May 2021 <br>
+                    Exchange in Spring semester 2021, EECS. CS188(A-) advised by <a href = "https://people.eecs.berkeley.edu/~dawnsong/?_ga=2.129150796.196941228.1691992345-192521382.1691572979"> Dawn Song </a>and <a href = "http://people.eecs.berkeley.edu/~russell/"> Stuart Russell </a>, CS288(Audit), DATA100(Audit)<br>
+                    <br>
+                    •MIT. Jan 2021 - Feb 2021 <br>
+                    Prospective course on vision science advised by <a href = "http://www.shaiyan.com/"> Shaiyan Keshvari </a>and <a href = "https://www.deryaakkaynak.com/"> Derya Akkaynak </a>. <br>
+                </div>
                     
                 <div>
                     <h2>Work Experience</h2>
                     •Machine learning algorithm intern. Jun 2022 - Oct 2022 <br>
                     Airline Ticket Department, Trip(<a href = "https://www.trip.com/">携程</a>-Biggest OTA in Asia) , Shanghai <br> 
                 </div>
-                    
+
                 <div>
-                    <h2>Publications</h2> 
-                    • Research Intern at Lanzhou University with advisor professor Yonggang Lu  from Jan 2022 to April 2023 <br> 
-                    J Li, X Peng, J Hou, W Ke, Y Lu - <a href="https://link.springer.com/chapter/10.1007/978-981-99-4752-2_29"> Community Detection Using Revised Medoid-Shift Based on KNN  </a> <br> - International Conference on Intelligent Computing, 2023.                  
+                    <h2>Research Experience</h2>
+                    • Research Intern at Lanzhou University advised by professor <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> Yonggang Lu </a> from Jan 2022 to April 2023 <br>
+                    Machine Learning clustering algorithm as well as its application on community detection, Lanzhou <br> 
+                    <br>
+                    • Research Intern at Westlake University advised by professor <a href="https://www.westlake.edu.cn/faculty/fajie-yuan.html"> Fajie Yuan </a> from April 2023 to PRESENT <br>
+                    Ai4Science with problems focusing on Protein-Protein-Interaction prediction using deep learning method, Hangzhou
+                </div>
+                
+                <div>
+                    <h2>Publications</h2>  
+                    • J Li, X Peng, J Hou, W Ke, Y Lu - <a href="https://link.springer.com/chapter/10.1007/978-981-99-4752-2_29"> Community Detection Using Revised Medoid-Shift Based on KNN  </a> <br> - International Conference on Intelligent Computing, 2023.                  
                 </div>
                 <div>
                     <h2>Research Interest</h2>
