@@ -22,9 +22,9 @@
                 <div>
                     <h2>NEWS</h2>
                     
-                    •I gave an oral presentation at ICIC2023                       Aug 12th 2023<br>
+                    •I gave an oral presentation at ICIC2023 - Aug 12th 2023<br>
                     <br>
-                    •Our ICIC 2023 paper was recommended to NeuroComputing!        Aug 8th 2023<br>
+                    •Our ICIC 2023 paper was recommended to NeuroComputing! - Aug 8th 2023<br>
                     <br>
 
                 <div>
@@ -39,20 +39,20 @@
                 
                 <div>
                     <h2>Education background</h2>
-                    •Lanzhou University                            Sep 2019 - July 2023 <br>
+                    •Lanzhou University - Sep 2019 - July 2023 <br>
                     Bachelor in Computer and Science, Lanzhou <br>
                     <br>
-                    •University of California, Berkeley            Jan 2021 - May 2021 <br>
+                    •University of California, Berkeley - Jan 2021 - May 2021 <br>
                     Exchange in Spring semester 2021, EECS. 
                     <br>CS188(A-) advised by <a href = "https://people.eecs.berkeley.edu/~dawnsong/?_ga=2.129150796.196941228.1691992345-192521382.1691572979"> Dawn Song </a>and <a href = "http://people.eecs.berkeley.edu/~russell/"> Stuart Russell </a>, CS288(audit), DATA100(audit)<br>
                     <br>
-                    •MIT                                           Jan 2021 - Feb 2021 <br>
+                    •MIT - Jan 2021 - Feb 2021 <br>
                     Prospective course on vision science advised by <a href = "http://www.shaiyan.com/"> Shaiyan Keshvari </a>and <a href = "https://www.deryaakkaynak.com/"> Derya Akkaynak </a>. <br>
                 </div>
                     
                 <div>
                     <h2>Work Experience</h2>
-                    •Machine learning algorithm intern             Jun 2022 - Oct 2022 <br>
+                    •Machine learning algorithm intern - Jun 2022 - Oct 2022 <br>
                     Airline Ticket Department, Trip(<a href = "https://www.trip.com/">携程</a>-Biggest OTA in Asia) , Shanghai <br> 
                 </div>
 
