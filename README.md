@@ -13,7 +13,7 @@
                 <h2>About Me</h2>
                 <p style="margin-top: 0px;">I'm currently serving as a visiting student in Westlake University affiliated with Assistant Professor <a href="https://www.westlake.edu.cn/faculty/fajie-yuan.html"> Fajie Yuan</a> researching on AI + Biology. Before that I was an undergraduate student studying in the <a href="http://xxxy.lzu.edu.cn/">Department of Information Science and Engineer </a>  (by courtesy) at  Lanzhou University(since 2019) majoring in CS and I was affiliated with the <a href="http://xxxy.lzu.edu.cn/jigoushezhi/xisuoshezhi/2020/1014/139911.html"> Centers for Computer Software and Theory </a> with Professor <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> Yonggang Lu </a>.  <br>
                     <br>
-                    <a href="https://github.com/jiakanglee/jiakanglee.github.io/blob/main/Jiakang%20Li%20CV.pdf">My Resume </a> <br>
+                    My <a href="https://github.com/jiakanglee/jiakanglee.github.io/blob/main/Jiakang%20Li%20CV.pdf"> Resume </a> <br>
                     My <a href = "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AHoSzlX67aTkED8GEn4Au2zd22QONwKrDSjIMYVmgRF94JXZ_MQ8jR7IPcJPKTMgqg3hx_7DkZLXMNHvijUfxQ&user=FVJO7aAAAAAJ"> Google Scholar </a>  <br>
                     My <a href = " https://www.researchgate.net/profile/Jiakang-Li-2"> Research Gate </a> <br>
                     My <a href = " https://github.com/jiakanglee"> Github</a>
