@@ -53,7 +53,7 @@
                 <div>
                     <h2>Work Experience</h2>
                     •Machine learning algorithm intern - Jun 2022 to Oct 2022 <br>
-                    Airline Ticket Department, Trip(<a href = "https://www.trip.com/">携程</a>-Biggest OTA in Asia) , Shanghai <br> 
+                    Airline Ticket Department, Trip.com(<a href = "https://www.trip.com/">携程</a>-Biggest OTA in Asia) , Shanghai <br> 
                 </div>
 
                 <div>
