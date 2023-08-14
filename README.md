@@ -58,11 +58,11 @@
 
                 <div>
                     <h2>Research Experience</h2>
-                    • Research Intern at Lanzhou University advised by professor <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> Yonggang Lu </a> from Jan 2022 to April 2023 <br>
+                    • Research Intern at Lanzhou University advised by professor <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> Yonggang Lu </a> - Jan 2022 to April 2023 <br>
                     Machine Learning clustering algorithm as well as its application on community detection, Lanzhou <br> 
                     <br>
-                    • Research Intern at Westlake University advised by professor <a href="https://www.westlake.edu.cn/faculty/fajie-yuan.html"> Fajie Yuan </a> from April 2023 to PRESENT <br>
-                    Ai4Science with problems focusing on Protein-Protein-Interaction prediction using deep learning method, Hangzhou
+                    • Research Intern at Westlake University advised by professor <a href="https://www.westlake.edu.cn/faculty/fajie-yuan.html"> Fajie Yuan </a> - April 2023 to PRESENT <br>
+                    Ai 4 Science with problems focusing on Protein-Protein-Interaction prediction using deep learning method, Hangzhou
                 </div>
                 
                 <div>
