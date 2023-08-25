@@ -16,7 +16,7 @@
                     My <a href="https://github.com/jiakanglee/jiakanglee.github.io/blob/main/Jiakang%20Li%20CV.pdf"> Resume </a> <br>
                     My <a href = "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AHoSzlX67aTkED8GEn4Au2zd22QONwKrDSjIMYVmgRF94JXZ_MQ8jR7IPcJPKTMgqg3hx_7DkZLXMNHvijUfxQ&user=FVJO7aAAAAAJ"> Google Scholar </a>  <br>
                     My <a href = " https://www.researchgate.net/profile/Jiakang-Li-2"> Research Gate </a> <br>
-                    My <a href = " https://github.com/jiakanglee"> Github</a> (I haven't got enough time to organize many of the codes I've written, pls stay tuned)
+                    My <a href = " https://github.com/jiakanglee"> Github</a> (I haven't got enough time to organize many of the codes I've written, pls stay tuned) <br>
                     My <a href = " https://www.linkedin.com/in/tristan-li-957654126/"> LinkedIn</a>
                  </p> 
 
@@ -98,7 +98,7 @@
                     •I'm an organizer!<br>
                     I'm the FOUNDER of the <a href = "https://lzufly.github.io/"> Lanzhou University Flyer organization </a>, and serve as a bridge between the graduated and the undergraduate in Lanzhou University 
                     <br>
-                    •Personality: My MBTI is ENFJ and I tend to make things organized<br>
+                    •Personality: My MBTI is ENFJ<br>
                     I'm a very self-motivated person, in which sense I tend to accept new challenges and like to inspire people. So I'm easy to get along with. feel free to send a email to me on everything.!<br>
                 <div>
                 
