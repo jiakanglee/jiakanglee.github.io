@@ -8,7 +8,7 @@
                 param.style.display = (param.style.display == "none") ? "" : "none";
             } 
         </script>
-            <img class="picture-border photo" src="jiakang.jpg" height="220px" width="290px"/>
+            <img class="picture-border photo" src="jiakang.jpg" height="500px" width="500px"/>
             <div class="content">
                 <h2>About Me</h2>
                 <p style="margin-top: 0px;">I'm currently serving as a visiting student in Westlake University affiliated with Dr. <a href="https://www.westlake.edu.cn/faculty/fajie-yuan.html"> Fajie Yuan</a> researching on AI + Biology. Before that I was an undergraduate student studying in the <a href="http://xxxy.lzu.edu.cn/">Department of Information Science and Engineer </a>  (by courtesy) at  Lanzhou University(since 2019) majoring in CS and I was affiliated with the <a href="http://xxxy.lzu.edu.cn/jigoushezhi/xisuoshezhi/2020/1014/139911.html"> Centers for Computer Software and Theory </a> with Prof. <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> Yonggang Lu </a>.  <br>
