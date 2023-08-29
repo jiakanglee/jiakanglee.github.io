@@ -2,6 +2,15 @@
 <h1>Jiakang Li</h1>
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head profile="http://www.w3.org/2006/03/hcard">
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KNE5BGPXG1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KNE5BGPXG1');
+</script>
         <title>Jiakang Li,Lanzhou University</title>
         <script type="text/javascript">
             function expand(param) {
