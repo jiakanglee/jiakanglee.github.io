@@ -34,7 +34,7 @@
                     
                     •I gave an oral presentation at ICIC2023 - Aug 12th 2023<br>
                     <br>
-                    •Our ICIC 2023 paper was recommended to NeuroComputing! - Aug 8th 2023<br>
+                    •Our recommended paper to journal is under review now! - Aug 8th 2023<br>
                     <br>
 
                 <div>   
@@ -75,7 +75,8 @@
                 
                 <div>
                     <h2>Publications</h2>  
-                    • J Li, X Peng, J Hou, W Ke, Y Lu - <a href="https://link.springer.com/chapter/10.1007/978-981-99-4752-2_29"> Community Detection Using Revised Medoid-Shift Based on KNN  </a> - International Conference on Intelligent Computing, 2023.  <br>                 
+                    • J Li, X Peng, J Hou, W Ke, Y Lu - <a href="https://link.springer.com/chapter/10.1007/978-981-99-4752-2_29"> Community Detection Using Revised Medoid-Shift Based on KNN  </a> - International Conference on Intelligent Computing, 2023.  <br> 
+                    • S Lai, J Li, Y Lu -A Comprehensive Review of Community Detection in Graphs- NeuroComputing under review, 2023 <br>
                 </div>
                 <div>
                     <h2>Research Interest</h2>
