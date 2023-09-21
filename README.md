@@ -25,7 +25,7 @@
                     My <a href="https://github.com/jiakanglee/jiakanglee.github.io/blob/main/Jiakang%20Li%20CV.pdf"> Resume </a> <br>
                     My <a href = "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AHoSzlX67aTkED8GEn4Au2zd22QONwKrDSjIMYVmgRF94JXZ_MQ8jR7IPcJPKTMgqg3hx_7DkZLXMNHvijUfxQ&user=FVJO7aAAAAAJ"> Google Scholar </a>  <br>
                     My <a href = " https://www.researchgate.net/profile/Jiakang-Li-2"> Research Gate </a> <br>
-                    My <a href = " https://github.com/jiakanglee"> Github</a> (I haven't got enough time to organize many of the codes I've written, pls stay tuned) <br>
+                    My <a href = " https://github.com/jiakanglee"> Github</a> (I have recently added a lot of my works there, have a look) <br>
                     My <a href = " https://www.linkedin.com/in/tristan-li-957654126/"> LinkedIn</a>
                  </p> 
 
@@ -34,7 +34,8 @@
                     
                     •I gave an oral presentation at ICIC2023 - Aug 12th 2023<br>
                     <br>
-                    •Our recommended paper to journal is under review now! - Sept 20th 2023<br>
+                    •Our recommended paper to journal is under review now! (arxiv soon) - Sept 20th 2023<br>
+                    •I have recently added a lot of my previous codes to my github! Please take a look! - Sept 21th 2023<br>
                     <br>
 
                 <div>   
@@ -59,7 +60,7 @@
                     <h2>Work Experience</h2>
                     •Machine learning algorithm intern <br>
                     Jun 2022 - Oct 2022 <br>
-                    Airline Ticket Department, Trip.com(<a href = "https://www.trip.com/">携程</a>-Biggest OTA in Asia) , Shanghai <br> 
+                    Airline Ticket Department, Trip.com(<a href = "https://www.trip.com/">携程</a>-Biggest OTA in Asia) , Shanghai (For my contribution please tale a look at <a href = "https://github.com/jiakanglee/Codes-written-in-Trip-" This </a><br> 
                 </div>
 
                 <div>
