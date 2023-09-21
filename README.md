@@ -34,7 +34,7 @@
                     
                     •I gave an oral presentation at ICIC2023 - Aug 12th 2023<br>
                     <br>
-                    •Our recommended paper to journal is under review now! - Aug 8th 2023<br>
+                    •Our recommended paper to journal is under review now! - Sept 20th 2023<br>
                     <br>
 
                 <div>   
