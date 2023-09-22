@@ -34,7 +34,7 @@
                     
                     •I gave an oral presentation at ICIC2023 - Aug 12th 2023<br>
                     <br>
-                    •Our recommended paper to journal is under review now! (arxiv soon) - Sept 20th 2023<br>
+                    •Our recommended paper to journal is under review now! <a href="https://arxiv.org/abs/2309.11798">arxiv </a> - Sept 20th 2023<br>
                     •I have recently added a lot of my previous codes to my github! Please take a look! - Sept 21th 2023<br>
                     <br>
 
@@ -60,7 +60,7 @@
                     <h2>Work Experience</h2>
                     •Machine learning algorithm intern <br>
                     Jun 2022 - Oct 2022 <br>
-                    Airline Ticket Department, Trip.com(<a href = "https://www.trip.com/">携程</a>-Biggest OTA in Asia) , Shanghai (For my contribution please tale a look at <a href = "https://github.com/jiakanglee/Codes-written-in-Trip-" This </a><br> 
+                    Airline Ticket Department, Trip.com(<a href = "https://www.trip.com/">携程</a>-Biggest OTA in Asia) , Shanghai (For my contribution please tale a look at <a href = "https://github.com/jiakanglee/Codes-written-in-Trip-"> This </a><br> 
                 </div>
 
                 <div>
@@ -77,7 +77,7 @@
                 <div>
                     <h2>Publications</h2>  
                     • J Li, X Peng, J Hou, W Ke, Y Lu - <a href="https://link.springer.com/chapter/10.1007/978-981-99-4752-2_29"> Community Detection Using Revised Medoid-Shift Based on KNN  </a> - International Conference on Intelligent Computing, 2023.  <br> 
-                    • S Lai, J Li, Y Lu -A Comprehensive Review of Community Detection in Graphs- NeuroComputing under review, 2023 <br>
+                    • S Lai, J Li, Y Lu -A Comprehensive Review of Community Detection in Graphs- NeuroComputing under review, <a href="https://arxiv.org/abs/2309.11798">arxiv </a>, 2023 <br>
                 </div>
                 <div>
                     <h2>Research Interest</h2>
