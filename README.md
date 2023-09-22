@@ -34,7 +34,8 @@
                     
                     •I gave an oral presentation at ICIC2023 - Aug 12th 2023<br>
                     <br>
-                    •Our recommended paper to journal is under review now! <a href="https://arxiv.org/abs/2309.11798">arxiv </a> - Sept 20th 2023<br>
+                    •Our recommended paper to journal is under review now! <a href="https://arxiv.org/abs/2309.11798">arxiv </a> - Sept 20th 2023
+                    <br><br>
                     •I have recently added a lot of my previous codes to my github! Please take a look! - Sept 21th 2023<br>
                     <br>
 
@@ -76,7 +77,7 @@
                 
                 <div>
                     <h2>Publications</h2>  
-                    • J Li, X Peng, J Hou, W Ke, Y Lu - <a href="https://link.springer.com/chapter/10.1007/978-981-99-4752-2_29"> Community Detection Using Revised Medoid-Shift Based on KNN  </a> - International Conference on Intelligent Computing, 2023.  <br> 
+                    • J Li, X Peng, J Hou, W Ke, Y Lu - <a href="https://link.springer.com/chapter/10.1007/978-981-99-4752-2_29"> Community Detection Using Revised Medoid-Shift Based on KNN  </a> - International Conference on Intelligent Computing, <a href="https://arxiv.org/ftp/arxiv/papers/2304/2304.09512.pdf">arxiv(detailed version)</a> 2023.  <br> 
                     • S Lai, J Li, Y Lu -A Comprehensive Review of Community Detection in Graphs- NeuroComputing under review, <a href="https://arxiv.org/abs/2309.11798">arxiv </a>, 2023 <br>
                 </div>
                 <div>
