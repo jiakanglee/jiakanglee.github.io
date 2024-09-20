@@ -44,7 +44,7 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 
 **Sony Lai**, Jiakang Li, Guinan Guo, Xifeng Hu...
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FVJO7aAAAAAJ&citation_for_view=FVJO7aAAAAAJ:UebtZRa9Y70C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
