@@ -19,7 +19,18 @@ redirect_from:
 
 I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu"> Rutgers University</a> supervised by Professor <a href="https://people.cs.rutgers.edu/zz124/">Zheng(Eddy)Zhang</a>. I received my bachelor degree in the <a href="http://xxxy.lzu.edu.cn/">CS Department </a>  (by courtesy) at  Lanzhou University(since 2019) majoring in CS and I was affiliated with the <a href="http://xxxy.lzu.edu.cn/jigoushezhi/xisuoshezhi/2020/1014/139911.html"> Centers for Computer Software and Theory </a> with Prof. <a href="http://xxxy.lzu.edu.cn/ shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> Yonggang Lu </a>. Before my first year in Rutgers, I was an intern in Westlake University supervised by Prof. <a href="https://www.westlake.edu.cn/faculty/fajie-yuan.html"> Fajie Yuan</a> researching on AI + Biology. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<div>
+                    <h2>Research Interest</h2>
+                    
+                   Due to the fact that I'm interest-oriented, my research interests are pretty diverse and they span across Machine Learning and Ai4Science. My research aims at: 
+                   <ul>
+                        <li>Machine learning in graphs, both <font face="MyriadProRegular" >practically</font> and <font face="MyriadProRegular">theoretically</font>, in a principled manner to enable its applications in critical domains like community detection in graphs;</li>
+                    
+                        <li>Machine learning and deep learning on Science, especially for problems involving quantum and biological problems</li>
+                   </ul>
+                </div>
+                
+Currently my research interests include Ai4Science, Machine Learning in graphs, Data Mning. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
