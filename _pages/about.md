@@ -31,9 +31,10 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 </div>
                 
 # 🔥 News
-- *2024.09.01*: &nbsp;🎉🎉 I bein my journey in Rutgers University 
+- *2024.09.01*: &nbsp;🎉🎉 I'm beginning my journey in Rutgers University 
 - *2024.07.10*: &nbsp;🎉🎉 Our survey paper on community detection has been published in **Neurocomputing 2024(JCR Q1)** 
-
+- *2024.05.10*: &nbsp;🎉🎉 Thanks to Sony, a paper regarding multi-modal alignment in sentiment analysis is accepted in IJCNN(CCF C, oral)
+- *2024.09.01*: &nbsp;🎉🎉 I gave an oral presentation at ICIC 2023(CCF C, oral) for my paper regarding community detection. 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
