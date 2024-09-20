@@ -37,7 +37,7 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 - *2024.09.01*: &nbsp;🎉🎉 I gave an oral presentation at ICIC 2023(CCF C, oral) for my paper regarding community detection. 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN2024</div><img src='IJCNN2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning](https://ieeexplore.ieee.org/abstract/document/10651442)
@@ -45,7 +45,7 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 **Sony Lai**, Jiakang Li, Guinan Guo, Xifeng Hu...
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FVJO7aAAAAAJ&citation_for_view=FVJO7aAAAAAJ:UebtZRa9Y70C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Introduces a new model regarding multi-modal in sentiment analysis tasks. 
 </div>
 </div>
 
