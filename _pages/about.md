@@ -26,16 +26,13 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
                    <ul>
                         <li>Machine learning in graphs, both <font face="MyriadProRegular" >practically</font> and <font face="MyriadProRegular">theoretically</font>, in a principled manner to enable its applications in critical domains like community detection in graphs;</li>
                     
-                        <li>Machine learning and deep learning on Science, especially for problems involving quantum and biological problems</li>
+                        <li>Machine learning and deep learning on Science, especially for problems involving quantum computing and biological problems</li>
                    </ul>
 </div>
                 
-Currently my research interests include Ai4Science, Machine Learning in graphs, Data Mning. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09.01*: &nbsp;🎉🎉 I bein my journey in Rutgers University 
+- *2024.07.10*: &nbsp;🎉🎉 Our survey paper on community detection has been published in **Neurocomputing 2024(JCR Q1)** 
 
 # 📝 Publications 
 
