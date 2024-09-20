@@ -49,7 +49,7 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [A comprehensive review of community detection in graphs](https://www.sciencedirect.com/science/article/pii/S0925231224009408), A, B, C, **NeuroComputing2024**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
