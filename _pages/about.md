@@ -45,6 +45,7 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 -A survey paper for community detection problems in graphs
 
 - [Community Detection Using Revised Medoid-Shift Based on KNN](https://link.springer.com/chapter/10.1007/978-981-99-4752-2_29) ICIC2023
+
 **Jiakang Li**, Xiaokang Peng, Jie Hou, Wei Ke & ***Yonggang Lu
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN2024</div><img src='images/IJCNN2024.jpg' alt="sym" width="100%"></div></div>
