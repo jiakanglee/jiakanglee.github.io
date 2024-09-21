@@ -84,6 +84,7 @@ Ai 4 Science with problems focusing on Protein-Protein-Interaction prediction us
 
 # 💻 Internships
 - *2022.06 - 2022.10*, [Trip.com携程](https://www.trip.com/), Shanghai, China.
+
 I interned as a machine leanring algorithm intern in airline ticket department, where I helped to impove the accuracy for predicting the airline tickets prices; Also I was responsible for risk management project, I trained a machine learning model and improve its precision for capturing malicious users to 90% compared with its previous update five years ago.
 
 <div>
