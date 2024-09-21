@@ -8,13 +8,19 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
-
+    
+  - title: "Research Experience"
+    url: "/#-research-experience"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
 
+  - title: "Teaching Experience"
+    url: "/#-teaching-experience"
+    
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
