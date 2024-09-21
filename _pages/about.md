@@ -62,8 +62,11 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 
 # 🌟 Research Experience
 - *2022.01-2023.04* Research Intern at Lanzhou University advised by Prof. <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> Yonggang Lu </a>
+
 Machine Learning clustering algorithm as well as its application on community detection, Lanzhou <br>
+
 - *2023.04-2023.11* Research Intern at Westlake University advised by Dr. <a href="https://www.westlake.edu.cn/faculty/fajie-yuan.html">Fajie Yuan</a>
+
 Ai 4 Science with problems focusing on Protein-Protein-Interaction prediction using deep learning method, Hangzhou
                 
 
