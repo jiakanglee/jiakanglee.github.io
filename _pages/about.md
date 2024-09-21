@@ -38,7 +38,7 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 # 📝 Publications 
 \* denotes equal contribution, \*** denotes corresponding author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing2024</div><img src='images/overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing2024</div><img src='images/overview.jpg' alt="sym" width="40%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [A comprehensive review of community detection in graphs](https://www.sciencedirect.com/science/article/pii/S0925231224009408) **NeuroComputing2024**
 
