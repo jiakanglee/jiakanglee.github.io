@@ -103,7 +103,8 @@ I interned as a machine leanring algorithm intern in airline ticket department, 
                     •I love singing!<br>
                     I have received a lot of friends' compliment on singing :), but I haven't got the time yet to test out that in a campaign :( !
                     <br>
-                    •I'm the FOUNDER of the <a href = "https://lzufly.github.io/"> Lanzhou University Flyer organization </a>, and serve as a bridge between the graduated and the undergraduate in Lanzhou University 
+                    •I'm the FOUNDER of the <a href = "https://lzufly.github.io/"> Lanzhou University Flyer organization </a> <br>.
+                    I serve as a bridge between the graduated and the undergraduate in Lanzhou University :)!<br>
                     <br>
                     •Personality: My MBTI is ENFJ<be>
                     I'm a very self-motivated person, in which sense I tend to accept new challenges and like to inspire people. So I'm easy to get along with. feel free to send a email to me on everything.!<be>
