@@ -82,8 +82,8 @@ Ai 4 Science with problems focusing on Protein-Protein-Interaction prediction us
 - *2021.01 - 2021.02*, Winter course on Vision Science(Cognitive Lab), Massachusetts Institute of Technology，MIT(EECS)    
 - *2019.09 - 2023.06*, B.S. in Lanzhou University with GPA ranking top 13%.
 
-# 💬 Teaching Experience
-- *Teaching Assitant*, CS206: Discrete Structures, Rutgers University, 2024 Fall
+# 🚀 Teaching Experience
+- **Teaching Assitant** , CS206: Discrete Structures, Rutgers University, 2024 Fall
 
 
 # 💬 Invited Talks
