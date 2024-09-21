@@ -59,13 +59,15 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 # 🌟 Research Experience
 - *2022.01-2023.04* Research Intern at Lanzhou University advised by Prof. <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> Yonggang Lu </a>
 Machine Learning clustering algorithm as well as its application on community detection, Lanzhou <br>
-- *2023.04-2023.11* Research Intern at Westlake University advised by Dr. <a href="https://www.westlake.edu.cn/faculty/fajie-yuan.html"> Fajie Yuan
+- *2023.04-2023.11* Research Intern at Westlake University advised by Dr. <a href="https://www.westlake.edu.cn/faculty/fajie-yuan.html">Fajie Yuan</a>
 Ai 4 Science with problems focusing on Protein-Protein-Interaction prediction using deep learning method, Hangzhou
                 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.12* Lanzhou University Second-Class Scholarship. 
+- *2021.12* Lanzhou University Second-Class Scholarship.
+- *2022.12* Lanzhou University Third-Class Scholarship.
+- *2020.12/2021.12/2022.12* University-wide Learning . 
 
 # 📖 Educations
 - *2024.09 - (now)*, CS Phd in Rutgers University.
