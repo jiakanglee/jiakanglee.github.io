@@ -67,13 +67,13 @@ Ai 4 Science with problems focusing on Protein-Protein-Interaction prediction us
 - *2020.12* Lanzhou University Second-Class Scholarship. 
 - *2021.12* Lanzhou University Second-Class Scholarship.
 - *2022.12* Lanzhou University Third-Class Scholarship.
-- *2020.12/2021.12/2022.12* University-wide Learning . 
+- *2020.12/2021.12/2022.12* University-wide Learning Model. 
 
 # 📖 Educations
 - *2024.09 - (now)*, CS Phd in Rutgers University.
 - *2021.01 - 2021.06*, Exchange student in University of California, Berkeley, UCB(EECS)
 - *2021.01 - 2021.02*, Winter course on Vision Science(Cognitive Lab), Massachusetts Institute of Technology，MIT(EECS)    
-- *2019.09 - 2023.06*, B.S. in Lanzhou University.
+- *2019.09 - 2023.06*, B.S. in Lanzhou University with GPA ranking top 13%.
 
 # 💬 Invited Talks
 - *xxxx.xx.xx*, Hopefully there will be some in the future  
