@@ -31,6 +31,8 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 </div>
                 
 # 🔥 News
+- *2024.12.06*: &nbsp;🎉🎉 Following my supervisor eddy to visit Berkeley Lawrence National lab
+- *2024.12.06*: &nbsp;🎉🎉 Actively preparing for NeuralIPS on ai4quantum
 - *2024.10.26*: &nbsp;🎉🎉 Congrats to Hongji!One paper accepted at WSDM(CCF-B) 2025 with four WAs and 1 AC!
 - *2024.09.01*: &nbsp;🎉🎉 I'm beginning my journey in Rutgers University 
 - *2024.07.10*: &nbsp;🎉🎉 Our survey paper on community detection has been published in **Neurocomputing 2024(IF:6.0, SCI Q2, JCR Q1)** 
