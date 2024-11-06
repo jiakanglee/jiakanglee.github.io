@@ -100,7 +100,7 @@ I interned as a machine leanring algorithm intern in airline ticket department, 
 <div>
                     <h2>Besides study</h2>
                     
-                    •I'm a broadcaster on Tiktok!<br>
+                    •I'm a good gamer for MOBA GAMES<br>
                     I have been running a Tiktok account doing contents about AOV（Arena of Valor）/王者荣耀 with 200+ followers now! As for my competence, the highest rank for the ranked match is 'Lengendary King' and the highest Peak Tournament(巅峰赛) I have once reached is 2282. At the mean time, 74-Lane Battle, 60-Lane Roaming, 60-Lane Jungle witness my ability to excel in Moba games. It's worth mentioning that I was once in compliance with professional player Wolf.Xiao Pang(狼队小胖) and national-famous broadcaster Lala (快手辣辣).
                    <br>
                     •I love singing!<br>
