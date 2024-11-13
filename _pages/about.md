@@ -29,10 +29,14 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
                         <li>Machine learning and deep learning on Science, especially for problems involving quantum computing and biological problems</li>
                    </ul>
 </div>
-                
+#  📈Blogs
+- *2024.11.13*: &nbsp; Submitted one paper to CVPR2025
+- *2024.11.10*: &nbsp; Actively working on one paper regarding Quantum Hybrid CVDV for ISCA2025  
+- *2024.11.05*: &nbsp; Actively preparing for NEURIPs2025 on AI4Quantum optimization
+- *2024.10.20*: &nbsp; One paper waiting to be submitted at ACL2025
+- *2024.10.10*: &nbsp; One paper waiting to be submitted at ICME 2025
 # 🔥 News
-- *2024.12.06*: &nbsp;🎉🎉 Following my supervisor eddy to visit Berkeley Lawrence National lab
-- *2024.11.05*: &nbsp; Actively preparing for NeuralIPS on ai4quantum
+- *2024.12.06*: &nbsp;🎉🎉 Following my phd supervisor eddy to visit Berkeley Lawrence National lab
 - *2024.10.26*: &nbsp;🎉🎉 Congrats to Hongji!One paper accepted at WSDM(CCF-B) 2025 with four WAs and 1 AC!
 - *2024.09.01*: &nbsp;🎉🎉 I'm beginning my journey in Rutgers University 
 - *2024.07.10*: &nbsp;🎉🎉 Our survey paper on community detection has been published in **Neurocomputing 2024(IF:6.0, SCI Q2, JCR Q1)** 
