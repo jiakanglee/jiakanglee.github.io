@@ -2,7 +2,8 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-
+  - title: "Blogs"
+    url: "/#-blogs"
   - title: "News"
     url: "/#-news"
 
