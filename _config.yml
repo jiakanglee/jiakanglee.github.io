@@ -24,7 +24,7 @@ author:
   name             : "Jiakang Li(李嘉康)"
   avatar           : "images/selfie.jpg"
   bio              : "Rutgers University"
-  location         : "New Brunswick, New Jersey, USA"
+  location         : "New Brunswick, NJ, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FVJO7aAAAAAJ&hl=en"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : # e.g., "https://www.linkedin.com/in/tristan-li-957654126/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
