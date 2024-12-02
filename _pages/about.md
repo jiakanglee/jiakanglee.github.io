@@ -30,8 +30,8 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
                    </ul>
 </div>
 #  📈Blogs
-- *2024.11.13*: &nbsp; Submitted one paper to CVPR2025
-- *2024.11.10*: &nbsp; Actively working on one paper regarding Quantum Hybrid CVDV for ISCA2025  
+- *2024.11.23*: &nbsp; Submitted one paper to ISCA 2025 
+- *2024.11.13*: &nbsp; Submitted one paper to CVPR2025  
 - *2024.11.05*: &nbsp; Actively preparing for NEURIPs2025 on AI4Quantum optimization
 - *2024.10.20*: &nbsp; One paper waiting to be submitted at ACL2025
 - *2024.10.10*: &nbsp; One paper waiting to be submitted at ICME 2025
