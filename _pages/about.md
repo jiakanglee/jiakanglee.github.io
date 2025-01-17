@@ -92,6 +92,8 @@ Ai 4 Science with problems focusing on Protein-Protein-Interaction prediction us
 # 🚀 Teaching Experience
 - **Teaching Assitant** , CS206: Discrete Structures, Rutgers University, 2024 Fall
 
+#  📈Academic Service
+-Reviewer for ICME 2025, IJCNN 2025
 
 # 💬 Invited Talks
 - *xxxx.xx.xx*, Hopefully there will be some in the future  
