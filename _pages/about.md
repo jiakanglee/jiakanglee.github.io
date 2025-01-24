@@ -86,11 +86,12 @@ Ai 4 Science with problems focusing on Protein-Protein-Interaction prediction us
 # 📖 Educations
 - *2024.09 - (now)*, CS Phd in Rutgers University.
 - *2021.01 - 2021.06*, Exchange student in University of California, Berkeley, UCB(EECS)
-- *2021.01 - 2021.02*, Winter course on Vision Science(Cognitive Lab), Massachusetts Institute of Technology，MIT(EECS)    
+- *2021.01 - 2021.02*, Winter course on Vision Science(Cognitive Lab), Massachusetts Institute of Technology，MIT(EECS)  
 - *2019.09 - 2023.06*, B.S. in Lanzhou University with GPA ranking top 13%.
 
 # 🚀 Teaching Experience
 - **Teaching Assitant** , CS206: Discrete Structures, Rutgers University, 2024 Fall
+- **Teaching Assitant** , CS415: Compilers, Rutgers University, 2025 Spring
 
 #  📈Academic Service
 -Reviewer for ICME 2025, IJCNN 2025
