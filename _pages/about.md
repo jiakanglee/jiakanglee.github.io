@@ -24,20 +24,21 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
                     
                    Due to the fact that I'm interest-oriented, my research interests are pretty diverse and they span across Machine Learning and Ai4Science. My research aims at: 
                    <ul>
+                        <li>Bridging the gap between Quantum Hamiltonian and Quantum circuits compilation, especially when it involves Fermionic system</li>
+                        <li>Improving the Quantum circuit optimization using machine learning methods</li>
+                        
                         <li>Machine learning in graphs, both <font face="MyriadProRegular" >practically</font> and <font face="MyriadProRegular">theoretically</font>, in a principled manner to enable its applications in critical domains like community detection in graphs;</li>
-                    
-                        <li>Machine learning and deep learning on Science, especially for problems involving quantum computing and biological problems</li>
                    </ul>
 </div>
-#  📈Blogs
-- *2024.11.23*: &nbsp; Submitted one paper to ISCA 2025 
-- *2024.11.13*: &nbsp; Submitted one paper to CVPR2025  
-- *2024.11.05*: &nbsp; Actively preparing for NEURIPs2025 on AI4Quantum optimization
-- *2024.10.20*: &nbsp; One paper waiting to be submitted at ACL2025
-- *2024.10.10*: &nbsp; One paper waiting to be submitted at ICME 2025
+#  📈Blogs 
+- *2025.02.22*: &nbsp; Actively preparing for Neural ips 2025 on unitary synthethsis with Lawarence Berkeley National Lab. 
+- *2025.02.18*: &nbsp; One paper at ICME 2025 in rebuttalling
+- *2025.02.13*: &nbsp; Actively preparing for SC/Micro 2025 on VQA Hamiltonian Compilation
+- *2025.02.10*: &nbsp; One paper at ISCA 2025 in rebutalling
+- *2025.01.25*: &nbsp; One paper on code generation preparing for Neural ips 2025.
 # 🔥 News
 - *2024.12.06*: &nbsp;🎉🎉 Following my phd supervisor eddy to visit Berkeley Lawrence National lab
-- *2024.10.26*: &nbsp;🎉🎉 Congrats to Hongji!One paper accepted at WSDM(CCF-B) 2025 with four WAs and 1 AC!
+- *2024.10.26*: &nbsp;🎉🎉 Congrats to Hongji!One paper accepted at WSDM(THU-A) 2025 with four WAs and 1 AC!
 - *2024.09.01*: &nbsp;🎉🎉 I'm beginning my journey in Rutgers University 
 - *2024.07.10*: &nbsp;🎉🎉 Our survey paper on community detection has been published in **Neurocomputing 2024(IF:6.0, SCI Q2, JCR Q1)** 
 - *2024.05.10*: &nbsp;🎉🎉 Congrats to Sony, a paper regarding multi-modal alignment in sentiment analysis is accepted in IJCNN2024(CCF C, oral)
