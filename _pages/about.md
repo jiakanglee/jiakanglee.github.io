@@ -31,10 +31,10 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
                    </ul>
 </div>
 #  📈Blogs 
-- *2025.02.22*: &nbsp; Actively preparing for Neural ips 2025 on unitary synthethsis with Lawarence Berkeley National Lab. 
-- *2025.02.18*: &nbsp; One paper at ICME 2025 in rebuttalling
+- *2025.02.22*: &nbsp; Actively collaborating with LBNL on Compiling Fermions. 
+- *2025.02.18*: &nbsp; One paper at ICME 2025 rejected.
 - *2025.02.13*: &nbsp; Actively preparing for SC/Micro 2025 on VQA Hamiltonian Compilation
-- *2025.02.10*: &nbsp; One paper at ISCA 2025 in rebutalling
+- *2025.02.10*: &nbsp; One paper at **ISCA 2025 is accepted as co-first author
 - *2025.01.25*: &nbsp; One paper on code generation preparing for Neural ips 2025.
 # 🔥 News
 - *2024.12.06*: &nbsp;🎉🎉 Following my phd supervisor eddy to visit Berkeley Lawrence National lab
@@ -95,7 +95,7 @@ Ai 4 Science with problems focusing on Protein-Protein-Interaction prediction us
 - **Teaching Assitant** , CS415: Compilers, Rutgers University, 2025 Spring
 
 #  📈Academic Service
--Reviewer for ICME 2025, IJCNN 2025
+-Reviewer for ICME 2025, IJCNN 2025, USENIX ATC2025
 
 # 💬 Invited Talks
 - *xxxx.xx.xx*, Hopefully there will be some in the future  
