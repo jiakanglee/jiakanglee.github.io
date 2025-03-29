@@ -46,7 +46,7 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 
 - [A comprehensive review of community detection in graphs](https://www.sciencedirect.com/science/article/pii/S0925231224009408) **NeuroComputing**
 
-**Jiakang Li**/*, Songning Lai/*, Zhihao Shuai, Yuan Tan..., **Yonggang Lu
+**Jiakang Li**'*', Songning Lai'*', Zhihao Shuai, Yuan Tan..., **Yonggang Lu
 
 - [Community Detection Using Revised Medoid-Shift Based on KNN](https://link.springer.com/chapter/10.1007/978-981-99-4752-2_29) ICIC2023 **(oral)**
 
@@ -58,7 +58,7 @@ Sony Lai, **Jiakang Li**, Guinan Guo, Xifeng Hu...
 
 - [Teach Me How to Denoise: A Universal Framework for Denoising Multi-modal Recommender Systems via Guided Calibration](https://dl.acm.org/doi/pdf/10.1145/3701551.3703507)  **WSDM 2025 (oral)**
 
-Hongji Li/*, Hanwen Du/*, Youhua Li, ...**Jiakang Li**, Yongxin Ni**
+Hongji Li'*', Hanwen Du'*', Youhua Li, ...**Jiakang Li**, Yongxin Ni**
 
 # 🌟 Research Experience
 - *2022.01-2023.04* Research Intern at Lanzhou University advised by Prof. <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> Yonggang Lu </a>
