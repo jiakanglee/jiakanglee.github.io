@@ -56,10 +56,6 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 
 **Sony Lai**, Jiakang Li, Guinan Guo, Xifeng Hu...
 
-
-</div>
-</div>
-
 # 🌟 Research Experience
 - *2022.01-2023.04* Research Intern at Lanzhou University advised by Prof. <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> Yonggang Lu </a>
 
