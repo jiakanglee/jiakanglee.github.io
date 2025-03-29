@@ -34,9 +34,9 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 - *2025.02.22*: &nbsp; Actively collaborating with LBNL on Compiling Fermions. 
 - *2025.02.18*: &nbsp; One paper at ICME 2025 rejected.
 - *2025.02.13*: &nbsp; Actively preparing for SC/Micro 2025 on VQA Hamiltonian Compilation
-- *2025.02.10*: &nbsp; One paper at **ISCA 2025 is accepted as co-first author
 - *2025.01.25*: &nbsp; One paper on code generation preparing for Neural ips 2025.
 # 🔥 News
+- *2025.3.23*: &nbsp;🎉🎉 One paper on Hybrid-CV-DV is accepted as first-co-author at ISCA 2025
 - *2024.12.06*: &nbsp;🎉🎉 Following my phd supervisor eddy to visit Berkeley Lawrence National lab
 - *2024.10.26*: &nbsp;🎉🎉 Congrats to Hongji!One paper accepted at WSDM(THU-A) 2025 with four WAs and 1 AC!
 - *2024.09.01*: &nbsp;🎉🎉 I'm beginning my journey in Rutgers University 
@@ -49,8 +49,6 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 - [A comprehensive review of community detection in graphs](https://www.sciencedirect.com/science/article/pii/S0925231224009408) **NeuroComputing2024**
 
 **Jiakang Li**, **Songning Lai**, Zhihao Shuai, Yuan Tan..., **Yonggang Lu
-
--A survey paper for community detection problems in graphs
 
 - [Community Detection Using Revised Medoid-Shift Based on KNN](https://link.springer.com/chapter/10.1007/978-981-99-4752-2_29) ICIC2023
 
