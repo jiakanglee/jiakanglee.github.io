@@ -56,15 +56,11 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 
 **Jiakang Li**, Xiaokang Peng, Jie Hou, Wei Ke, **Yonggang Lu
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN2024</div><img src='images/IJCNN2024.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 [Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning](https://ieeexplore.ieee.org/abstract/document/10651442)
 
 **Sony Lai**, Jiakang Li, Guinan Guo, Xifeng Hu...
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FVJO7aAAAAAJ&citation_for_view=FVJO7aAAAAAJ:UebtZRa9Y70C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Introduces a new model regarding multi-modal in sentiment analysis tasks. 
+
 </div>
 </div>
 
