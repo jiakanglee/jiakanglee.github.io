@@ -32,8 +32,6 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 </div>
 #  📈Blogs 
 - *2025.02.22*: &nbsp; Actively collaborating with LBNL on Compiling Fermions. 
-- *2025.02.18*: &nbsp; One paper at ICME 2025 rejected.
-- *2025.02.13*: &nbsp; Actively preparing for SC/Micro 2025 on VQA Hamiltonian Compilation
 - *2025.01.25*: &nbsp; One paper on code generation preparing for Neural ips 2025.
 # 🔥 News
 - *2025.3.23*: &nbsp;🎉🎉 One paper on Hybrid-CV-DV is accepted as first-co-author at ISCA 2025
