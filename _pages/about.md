@@ -48,16 +48,15 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 
 **Jiakang Li***, Songning Lai*, Zhihao Shuai, Yuan Tan..., **Yonggang Lu
 
-- [Community Detection Using Revised Medoid-Shift Based on KNN](https://link.springer.com/chapter/10.1007/978-981-99-4752-2_29) ICIC2023
+- [Community Detection Using Revised Medoid-Shift Based on KNN](https://link.springer.com/chapter/10.1007/978-981-99-4752-2_29) ICIC2023 **(oral)**
 
 **Jiakang Li**, Xiaokang Peng, Jie Hou, Wei Ke, **Yonggang Lu
   
-- [Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning](https://ieeexplore.ieee.org/abstract/document/10651442) IJCNN 2024
+- [Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning](https://ieeexplore.ieee.org/abstract/document/10651442) IJCNN 2024 **(oral)**
 
 Sony Lai, **Jiakang Li**, Guinan Guo, Xifeng Hu...
 
-- [Teach Me How to Denoise: A Universal Framework for Denoising Multi-modal Recommender Systems via Guided Calibration]
-  (https://dl.acm.org/doi/abs/10.1145/3701551.3703507)
+- [A comprehensive review of community detection in graphs](https://dl.acm.org/doi/pdf/10.1145/3701551.3703507)  **WSDM 2025 (oral)**
 
 Hongji Li*, Hanwen Du*, Youhua Li, ...**Jiakang Li**, Yongxin Ni**
 
