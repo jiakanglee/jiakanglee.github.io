@@ -44,7 +44,7 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 # 📝 Publications 
 \* denotes equal contribution, \** denotes corresponding author
 
-- [A comprehensive review of community detection in graphs](https://www.sciencedirect.com/science/article/pii/S0925231224009408) **NeuroComputing2024**
+- [A comprehensive review of community detection in graphs](https://www.sciencedirect.com/science/article/pii/S0925231224009408) **NeuroComputing**
 
 **Jiakang Li***, Songning Lai*, Zhihao Shuai, Yuan Tan..., **Yonggang Lu
 
@@ -52,7 +52,7 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 
 **Jiakang Li**, Xiaokang Peng, Jie Hou, Wei Ke, **Yonggang Lu
   
-- [Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning](https://ieeexplore.ieee.org/abstract/document/10651442)
+- [Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning](https://ieeexplore.ieee.org/abstract/document/10651442) IJCNN 2024
 
 Sony Lai, **Jiakang Li**, Guinan Guo, Xifeng Hu...
 
