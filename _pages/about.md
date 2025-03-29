@@ -31,10 +31,10 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
                    </ul>
 </div>
 #  📈Blogs 
-- *2025.02.22*: &nbsp; Actively collaborating with LBNL on Compiling Fermions. 
+- *2025.02.22*: &nbsp; Actively collaborating with **Lawrence Berkeley National Lab ** on Compiling Fermions**. 
 - *2025.01.25*: &nbsp; One paper on code generation preparing for Neural ips 2025.
 # 🔥 News
-- *2025.3.23*: &nbsp;🎉🎉 One paper on Hybrid-CV-DV is accepted as first-co-author at ISCA 2025
+- *2025.3.23*: &nbsp;🎉🎉 One paper on Hybrid-CV-DV is accepted as **first-co-author at ISCA 2025 **
 - *2024.12.06*: &nbsp;🎉🎉 Following my phd supervisor eddy to visit Berkeley Lawrence National lab
 - *2024.10.26*: &nbsp;🎉🎉 Congrats to Hongji!One paper accepted at WSDM(THU-A) 2025 with four WAs and 1 AC!
 - *2024.09.01*: &nbsp;🎉🎉 I'm beginning my journey in Rutgers University 
