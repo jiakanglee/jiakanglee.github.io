@@ -31,10 +31,10 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
                    </ul>
 </div>
 #  📈Blogs 
-- *2025.02.22*: &nbsp; Actively collaborating with **Lawrence Berkeley National Lab ** on Compiling Fermions**. 
+- *2025.02.22*: &nbsp; Actively collaborating with **Lawrence Berkeley National Lab on Compiling Fermions**. 
 - *2025.01.25*: &nbsp; One paper on code generation preparing for Neural ips 2025.
 # 🔥 News
-- *2025.3.23*: &nbsp;🎉🎉 One paper on Hybrid-CV-DV is accepted as **first-co-author at ISCA 2025 **
+- *2025.3.23*: &nbsp;🎉🎉 One paper on Hybrid-CV-DV is accepted as **first-co-author at ISCA 2025**
 - *2024.12.06*: &nbsp;🎉🎉 Following my phd supervisor eddy to visit Berkeley Lawrence National lab
 - *2024.10.26*: &nbsp;🎉🎉 Congrats to Hongji!One paper accepted at WSDM(THU-A) 2025 with four WAs and 1 AC!
 - *2024.09.01*: &nbsp;🎉🎉 I'm beginning my journey in Rutgers University 
@@ -46,7 +46,7 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 
 - [A comprehensive review of community detection in graphs](https://www.sciencedirect.com/science/article/pii/S0925231224009408) **NeuroComputing**
 
-**Jiakang Li**'*', Songning Lai'*', Zhihao Shuai, Yuan Tan..., **Yonggang Lu
+**Jiakang Li** \dagger, Songning Lai \dagger, Zhihao Shuai, Yuan Tan..., **Yonggang Lu
 
 - [Community Detection Using Revised Medoid-Shift Based on KNN](https://link.springer.com/chapter/10.1007/978-981-99-4752-2_29) ICIC2023 **(oral)**
 
@@ -58,7 +58,7 @@ Sony Lai, **Jiakang Li**, Guinan Guo, Xifeng Hu...
 
 - [Teach Me How to Denoise: A Universal Framework for Denoising Multi-modal Recommender Systems via Guided Calibration](https://dl.acm.org/doi/pdf/10.1145/3701551.3703507)  **WSDM 2025 (oral)**
 
-Hongji Li'*', Hanwen Du'*', Youhua Li, ...**Jiakang Li**, Yongxin Ni**
+Hongji Li \dagger, Hanwen Du \dagger, Youhua Li, ...**Jiakang Li**, Yongxin Ni**
 
 # 🌟 Research Experience
 - *2022.01-2023.04* Research Intern at Lanzhou University advised by Prof. <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> Yonggang Lu </a>
