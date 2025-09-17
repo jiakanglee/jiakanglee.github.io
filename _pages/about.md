@@ -32,8 +32,8 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 </div>
 #  📈Blogs 
 - *2025.02.22*: &nbsp; Actively collaborating with **Lawrence Berkeley National Lab on Compiling Fermions**. 
-- *2025.01.25*: &nbsp; One paper on code generation preparing for Neural ips 2025.
 # 🔥 News
+- *2025.06.25*: &nbsp;🎉🎉 Gave the oral presentation for Hybrid-CV-DV at ISCA 2025 in Tokyo
 - *2025.03.23*: &nbsp;🎉🎉 One paper on Hybrid-CV-DV is accepted as **first-co-author at ISCA 2025**
 - *2024.12.06*: &nbsp;🎉🎉 Following my phd supervisor eddy to visit Berkeley Lawrence National lab
 - *2024.10.26*: &nbsp;🎉🎉 Congrats to Hongji!One paper accepted at WSDM(THU-A) 2025 with four WAs and 1 AC!
@@ -41,7 +41,7 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 - *2024.07.10*: &nbsp;🎉🎉 Our survey paper on community detection has been published in **Neurocomputing 2024(IF:6.0, SCI Q2, JCR Q1)** 
 - *2024.05.10*: &nbsp;🎉🎉 Congrats to Sony, a paper regarding multi-modal alignment in sentiment analysis is accepted in IJCNN2024(CCF C, oral)
 - *2023.08.01*: &nbsp;🎉🎉 I gave an oral presentation at ICIC 2023(CCF C, oral) for my paper regarding community detection. 
-# 📝 Publications 
+# 📝 Selected Publications 
 \* denotes equal contribution, \** denotes corresponding author
 
 - [A comprehensive review of community detection in graphs](https://www.sciencedirect.com/science/article/pii/S0925231224009408) **NeuroComputing**
@@ -51,14 +51,10 @@ I am currently a first-year CS PhD student at <a href="https://www.rutgers.edu">
 - [Community Detection Using Revised Medoid-Shift Based on KNN](https://link.springer.com/chapter/10.1007/978-981-99-4752-2_29) ICIC2023 **(oral)**
 
 **Jiakang Li**, Xiaokang Peng, Jie Hou, Wei Ke, **Yonggang Lu
-  
-- [Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning](https://ieeexplore.ieee.org/abstract/document/10651442) IJCNN 2024 **(oral)**
 
-Sony Lai, **Jiakang Li**, Guinan Guo, Xifeng Hu...
+- [Genesis: A Compiler for Hamiltonian Simulation on Hybrid CV-DV Quantum Computers](https://dl.acm.org/doi/full/10.1145/3695053.3731065)  **ISCA 2025 (oral)**
 
-- [Teach Me How to Denoise: A Universal Framework for Denoising Multi-modal Recommender Systems via Guided Calibration](https://dl.acm.org/doi/pdf/10.1145/3701551.3703507)  **WSDM 2025 (oral)**
-
-Hongji Li, Hanwen Du, Youhua Li, ...**Jiakang Li**, Yongxin Ni**
+Zihan Chen†, **Jiakang Li†**, Minghao Guo†, Henry Chen, ..., Yipeng Huang, Huiyang Zhou, Yuan Liu, Eddy Z. Zhang
 
 # 🌟 Research Experience
 - *2022.01-2023.04* Research Intern at Lanzhou University advised by Prof. <a href="http://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiaoshou/2020/0914/132022.html"> Yonggang Lu </a>
@@ -74,7 +70,8 @@ Ai 4 Science with problems focusing on Protein-Protein-Interaction prediction us
 - *2020.12* Lanzhou University Second-Class Scholarship. 
 - *2021.12* Lanzhou University Second-Class Scholarship.
 - *2022.12* Lanzhou University Third-Class Scholarship.
-- *2020.12/2021.12/2022.12* University-wide Learning Model. 
+- *2020.12/2021.12/2022.12* University-wide Learning Model.
+- *2025.05* ISCA Student Travel Award.
 
 # 📖 Educations
 - *2024.09 - (now)*, CS Phd in Rutgers University.
@@ -85,6 +82,7 @@ Ai 4 Science with problems focusing on Protein-Protein-Interaction prediction us
 # 🚀 Teaching Experience
 - **Teaching Assitant** , CS206: Discrete Structures, Rutgers University, 2024 Fall
 - **Teaching Assitant** , CS415: Compilers, Rutgers University, 2025 Spring
+- **Teaching Assitant** , CS461: Machine Learning Principles, Rutgers University, 2025 Fall
 
 #  📈Academic Service
 -Reviewer for ICME 2025, IJCNN 2025
