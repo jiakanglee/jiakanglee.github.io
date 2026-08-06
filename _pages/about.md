@@ -1,49 +1,51 @@
-```markdown
 ---
+
 permalink: /
 title: ""
 excerpt: ""
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
+
+* /about/
+* /about.html
+
 ---
 
 ## About Me
 
 I am a Ph.D. student in Computer Science at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Zheng (Eddy) Z. Zhang](https://people.cs.rutgers.edu/zz124/).
 
-My research lies at the intersection of **quantum computing systems**, **compiler optimization**, and **artificial intelligence**. In quantum computing, I work on Hamiltonian simulation, quantum circuit compilation, and hardware-aware optimization. In artificial intelligence, I am interested in improving the reasoning capabilities of large language models through inference-time steering, scalable oversight, and weak-to-strong learning.
+My research lies at the intersection of **quantum computing systems**, **compiler optimization**, and **artificial intelligence**. On the quantum computing side, I work on Hamiltonian simulation, fermionic simulation, quantum circuit compilation, and hardware-aware optimization. On the artificial intelligence side, I am interested in improving the reasoning capabilities of large language models through inference-time steering, scalable oversight, and weak-to-strong learning.
 
 Before joining Rutgers, I received my B.S. in Computer Science from Lanzhou University, where I worked with Prof. [Yonggang Lu](https://www.researchgate.net/profile/Yonggang-Lu) on graph machine learning and community detection. I also worked with Prof. [Fajie Yuan](https://fajieyuan.github.io/) at Westlake University on deep learning for biological applications.
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-View%20Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=FVJO7aAAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-View%20Profile-4285F4?style=flat-square\&logo=googlescholar\&logoColor=white)](https://scholar.google.com/citations?user=FVJO7aAAAAAJ&hl=en)
 
 ## Research Interests
 
-- **Quantum compilation and system software**, including the compilation of physical Hamiltonians into executable quantum circuits.
-- **Hamiltonian and fermionic simulation**, particularly on hybrid continuous-variable/discrete-variable quantum architectures.
-- **Quantum circuit synthesis and optimization**, including hardware-aware mapping, routing, and circuit transformation.
-- **Large language model reasoning**, including inference-time steering, scalable oversight, and weak-to-strong learning.
-- **AI for scientific discovery**, with applications in quantum computing, graph learning, and computational biology.
+* **Quantum compilation and system software**, including compilation from physical Hamiltonians to executable quantum circuits.
+* **Hamiltonian and fermionic simulation**, particularly on emerging and hardware-constrained quantum architectures.
+* **Quantum circuit synthesis and optimization**, including hardware-aware mapping, routing, and circuit transformation.
+* **Large language model reasoning**, including inference-time steering, scalable oversight, and weak-to-strong learning.
+* **AI for scientific discovery**, with applications in quantum computing, graph learning, and computational biology.
 
 ## News
 
-- **May 2026:** Released three new preprints on latent reward steering, weak-critic scalable oversight, and hardware-aware fermionic simulation.
-- **Jun. 2025:** Our paper **Genesis** was presented at ISCA 2025 in Tokyo, Japan.
-- **May 2025:** Received an **ISCA Student Travel Award**.
-- **Jul. 2024:** Our survey on community detection was published in *Neurocomputing*.
+* **Jul. 2026:** Released an updated version of **Latent Reward Steering (LRS)**.
+* **Jun. 2026:** Released new preprints on weak-critic scalable oversight and hardware-aware fermionic simulation.
+* **Jun. 2025:** Our paper **Genesis** was presented at ISCA 2025 in Tokyo, Japan.
+* **May 2025:** Received an **ISCA Student Travel Award**.
+* **Jul. 2024:** Our survey on community detection was published in *Neurocomputing*.
 
 ## Selected Publications
 
-<sup>†</sup> Equal contribution.  
-<sup>*</sup> Corresponding author.
+<sup>†</sup> Equal contribution. <sup>*</sup> Corresponding author.
 
 ### 2026
 
 **[Latent Reward Steering: An Adaptive Inference-Time Framework that Implicitly Promotes Cognitive Behaviors in Reasoning LLMs](https://arxiv.org/abs/2606.00726)**
 
-**Jiakang Li**, Guanyu Zhu, Can Jin, Chenxi Huang, Dexu Yu, Ronghao Chen, Yang Zhou, Hongwu Peng, Xuanqi Lan, Dimitris N. Metaxas, and Youhua Li
+**Jiakang Li**<sup>†</sup>, Guanyu Zhu<sup>†</sup>, Can Jin<sup>†</sup>, Chenxi Huang, Dexu Yu, Ronghao Chen, Yang Zhou, Hongwu Peng, Xuanqi Lan, Dimitris N. Metaxas<sup>*</sup>, and Youhua Li<sup>*</sup>
 
 *arXiv preprint*, 2026.
 
@@ -56,7 +58,7 @@ Before joining Rutgers, I received my B.S. in Computer Science from Lanzhou Univ
 
 Can Jin, **Jiakang Li**, Rui Wu, Eddy Zhang, and Dimitris N. Metaxas
 
-*3rd AI for Math Workshop: Toward Self-Evolving Scientific Agents, ICML 2026*, 2026.
+*arXiv preprint*, 2026.
 
 [[Paper](https://arxiv.org/abs/2606.00424)]
 
@@ -88,7 +90,7 @@ Zihan Chen<sup>†</sup>, **Jiakang Li**<sup>†</sup>, Minghao Guo<sup>†</sup
 
 Zihan Chen, Henry Chen, Yuwei Jin, Minghao Guo, Enhyeok Jang, **Jiakang Li**, Caitlin Chan, Won Woo Ro, and Eddy Z. Zhang
 
-*IEEE International Conference on Quantum Computing and Engineering* (**QCE 2025**, poster).
+*arXiv preprint*, 2025.
 
 [[Paper](https://arxiv.org/abs/2506.20624)]
 
@@ -117,54 +119,54 @@ Zihan Chen, Henry Chen, Yuwei Jin, Minghao Guo, Enhyeok Jang, **Jiakang Li**, Ca
 
 ### Rutgers University
 
-**Ph.D. in Computer Science**  
+**Ph.D. in Computer Science**
 *Sep. 2024–Present*
 
 Research areas: quantum computing systems, compiler optimization, and large language model reasoning.
 
 ### Lanzhou University
 
-**B.S. in Computer Science**  
+**B.S. in Computer Science**
 *Sep. 2019–Jun. 2023*
 
-- GPA ranking: Top 13%.
-- Affiliated with the Center for Computer Software and Theory.
+* GPA ranking: Top 13%.
+* Affiliated with the Center for Computer Software and Theory.
 
 ### Additional Study
 
-- **University of California, Berkeley** — Exchange Student, Jan.–Jun. 2021.
-- **Massachusetts Institute of Technology** — Winter Course in Vision Science, Jan.–Feb. 2021.
+* **University of California, Berkeley** — Exchange Student, Jan.–Jun. 2021.
+* **Massachusetts Institute of Technology** — Winter Course in Vision Science, Jan.–Feb. 2021.
 
 ## Teaching Experience
 
-- **Teaching Assistant**, CS 314: Principles of Programming Languages, Rutgers University, Spring 2026.
-- **Teaching Assistant**, CS 461: Machine Learning Principles, Rutgers University, Fall 2025.
-- **Teaching Assistant**, CS 415: Compilers, Rutgers University, Spring 2025.
-- **Teaching Assistant**, CS 206: Discrete Structures, Rutgers University, Fall 2024.
+* **Teaching Assistant**, CS 314: Principles of Programming Languages, Rutgers University, Spring 2026.
+* **Teaching Assistant**, CS 461: Machine Learning Principles, Rutgers University, Fall 2025.
+* **Teaching Assistant**, CS 415: Compilers, Rutgers University, Spring 2025.
+* **Teaching Assistant**, CS 206: Discrete Structures, Rutgers University, Fall 2024.
 
 ## Industry Experience
 
 ### [Trip.com Group](https://www.trip.com/)
 
-**Machine Learning Algorithm Intern**  
+**Machine Learning Algorithm Intern**
 *Jun. 2022–Oct. 2022 · Shanghai, China*
 
-- Developed machine learning models for airfare price prediction.
-- Worked on risk-control models for detecting potentially malicious users.
-- Trained a detection model that achieved approximately 90% precision in the target evaluation setting.
+* Developed machine learning models for airfare price prediction.
+* Worked on risk-control models for detecting potentially malicious users.
+* Trained a detection model that achieved approximately 90% precision in the target evaluation setting.
 
 ## Academic Service
 
-- Reviewer, **IEEE International Conference on Multimedia and Expo (ICME 2025)**.
-- Reviewer, **International Joint Conference on Neural Networks (IJCNN 2025)**.
+* Reviewer, **IEEE International Conference on Multimedia and Expo (ICME 2025)**.
+* Reviewer, **International Joint Conference on Neural Networks (IJCNN 2025)**.
 
 ## Honors and Awards
 
-- **ISCA Student Travel Award**, 2025.
-- **Lanzhou University Third-Class Scholarship**, 2022.
-- **Lanzhou University Second-Class Scholarship**, 2021.
-- **Lanzhou University Second-Class Scholarship**, 2020.
-- **University-Level Academic Excellence Award**, 2020, 2021, and 2022.
+* **ISCA Student Travel Award**, 2025.
+* **Lanzhou University Third-Class Scholarship**, 2022.
+* **Lanzhou University Second-Class Scholarship**, 2021.
+* **Lanzhou University Second-Class Scholarship**, 2020.
+* **University-Level Academic Excellence Award**, 2020, 2021, and 2022.
 
 ## Beyond Research
 
@@ -173,4 +175,4 @@ Outside research, I enjoy competitive MOBA games, singing, and community buildin
 I am the founder of the [Lanzhou University Flyer organization](https://lzufly.github.io/), a student-led initiative that connects current students with alumni and shares information about graduate study, career development, and international opportunities.
 
 I enjoy meeting people with different backgrounds and exploring new research ideas. Feel free to reach out if you would like to discuss quantum computing, large language models, AI for science, academic collaboration, or shared interests.
-```
+::: 
