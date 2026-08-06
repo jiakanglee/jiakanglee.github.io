@@ -30,17 +30,7 @@ I am currently a second-year CS PhD student at <a href="https://www.rutgers.edu"
                         <li>Machine learning in graphs, both <font face="MyriadProRegular" >practically</font> and <font face="MyriadProRegular">theoretically</font>, in a principled manner to enable its applications in critical domains like community detection in graphs;</li>
                    </ul>
 </div>
-#  📈Blogs 
-- *2025.02.22*: &nbsp; Actively collaborating with **Lawrence Berkeley National Lab on Compiling Fermions**. 
-# 🔥 News
-- *2025.06.25*: &nbsp;🎉🎉 Gave the oral presentation for Hybrid-CV-DV at ISCA 2025 in Tokyo
-- *2025.03.23*: &nbsp;🎉🎉 One paper on Hybrid-CV-DV is accepted as **first-co-author at ISCA 2025**
-- *2024.12.06*: &nbsp;🎉🎉 Following my phd supervisor eddy to visit Berkeley Lawrence National lab
-- *2024.10.26*: &nbsp;🎉🎉 Congrats to Hongji!One paper accepted at WSDM(THU-A) 2025 with four WAs and 1 AC!
-- *2024.09.01*: &nbsp;🎉🎉 I'm beginning my journey in Rutgers University 
-- *2024.07.10*: &nbsp;🎉🎉 Our survey paper on community detection has been published in **Neurocomputing 2024(IF:6.0, SCI Q2, JCR Q1)** 
-- *2024.05.10*: &nbsp;🎉🎉 Congrats to Sony, a paper regarding multi-modal alignment in sentiment analysis is accepted in IJCNN2024(CCF C, oral)
-- *2023.08.01*: &nbsp;🎉🎉 I gave an oral presentation at ICIC 2023(CCF C, oral) for my paper regarding community detection. 
+
 # 📝 Selected Publications 
 \* denotes equal contribution, \** denotes corresponding author
 
