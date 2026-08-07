@@ -17,6 +17,7 @@ permissions:
 jobs:
   update-citations:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -34,12 +35,13 @@ jobs:
       - name: Fetch citation data
         env:
           GOOGLE_SCHOLAR_ID: FVJO7aAAAAAJ
-          SCRAPERAPI_KEY: ${{ secrets.SCRAPERAPI_KEY }}
         run: python google_scholar_crawler/main.py
 
       - name: Publish citation JSON branch
         run: |
           cd google_scholar_crawler/results
+          test -f gs_data.json
+          test -f gs_data_shieldsio.json
           git init
           git checkout -b google-scholar-stats
           git config user.name "github-actions[bot]"
