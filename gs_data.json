@@ -1,0 +1,33 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts"
+  ],
+  "scholar_id": "FVJO7aAAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Jiakang Li",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FVJO7aAAAAAJ&citpid=6",
+  "affiliation": "Phd Student at Rutgers University",
+  "organization": 3903766639137847059,
+  "interests": [
+    "Quantum Computing",
+    "LLM-reasoning"
+  ],
+  "email_domain": "@rutgers.edu",
+  "homepage": "https://jiakanglee.github.io/",
+  "citedby": 224,
+  "citedby5y": 224,
+  "hindex": 5,
+  "hindex5y": 5,
+  "i10index": 2,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2023": 2,
+    "2024": 32,
+    "2025": 107,
+    "2026": 81
+  },
+  "updated": "2026-08-07T15:06:32.944916+00:00"
+}
