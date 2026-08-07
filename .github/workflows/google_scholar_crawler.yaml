@@ -34,12 +34,14 @@ jobs:
       - name: Fetch citation data
         env:
           GOOGLE_SCHOLAR_ID: FVJO7aAAAAAJ
+          SCRAPERAPI_KEY: ${{ secrets.SCRAPERAPI_KEY }}
         run: python google_scholar_crawler/main.py
 
       - name: Publish citation JSON branch
         run: |
           cd google_scholar_crawler/results
           git init
+          git checkout -b google-scholar-stats
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add gs_data.json gs_data_shieldsio.json
