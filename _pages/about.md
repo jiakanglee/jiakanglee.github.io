@@ -64,7 +64,7 @@ Can Jin<sup>†</sup>, **Jiakang Li**<sup>†</sup>, Rui Wu, Eddy Zhang, and Dim
 
 **[Linear Complexity Fermionic Simulation on Quantum Devices with Hardware Connectivity Constraints](https://arxiv.org/abs/2606.00982)**
 
-Xiangyu Gao, Winston Li, **Jiakang Li**, Zirui Li, Yipeng Huang, Costin Iancu, and Eddy Z. Zhang
+Xiangyu Gao<sup>†</sup>, Winston Li<sup>†</sup>, **Jiakang Li**, Zirui Li, Yipeng Huang, Costin Iancu, and Eddy Z. Zhang
 
 *arXiv preprint*, 2026.
 
