@@ -56,9 +56,10 @@ Before joining Rutgers, I received my B.S. in Computer Science from Lanzhou Univ
 
 Can Jin<sup>†</sup>, **Jiakang Li**<sup>†</sup>, Rui Wu, Eddy Zhang, and Dimitris N. Metaxas
 
-*arXiv preprint*, 2026.
+*International Conference on Machine Learning (**ICML**) @AI4math*, 2026.
 
-[[Paper](https://arxiv.org/abs/2606.00424)]
+[[Paper](https://icml.cc/virtual/2026/82449)]
+[[arXiv](https://arxiv.org/abs/2606.00424)]
 
 ---
 
