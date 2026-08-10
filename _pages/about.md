@@ -39,7 +39,7 @@ Before joining Rutgers, I received my B.S. in Computer Science from Lanzhou Univ
 <sup>†</sup> Equal contribution.  
 <sup>*</sup> Corresponding author.
 
-### 2026
+### Large Language Model Reasoning & Scalable Oversight
 
 **[Latent Reward Steering: An Adaptive Inference-Time Framework that Implicitly Promotes Cognitive Behaviors in Reasoning LLMs](https://arxiv.org/abs/2606.00726)**
 
@@ -61,7 +61,7 @@ Can Jin<sup>†</sup>, **Jiakang Li**<sup>†</sup>, Rui Wu, Eddy Zhang, and Dim
 [[Paper](https://icml.cc/virtual/2026/82449)]
 [[arXiv](https://arxiv.org/abs/2606.00424)]
 
----
+### Quantum Computing Systems, Compilation & Simulation
 
 **[Linear Complexity Fermionic Simulation on Quantum Devices with Hardware Connectivity Constraints](https://arxiv.org/abs/2606.00982)**
 
@@ -71,7 +71,7 @@ Xiangyu Gao<sup>†</sup>, Winston Li<sup>†</sup>, **Jiakang Li**, Zirui Li, Y
 
 [[Paper](https://arxiv.org/abs/2606.00982)]
 
-### 2025
+---
 
 **[Genesis: A Compiler for Hamiltonian Simulation on Hybrid CV-DV Quantum Computers](https://dl.acm.org/doi/10.1145/3695053.3731065)**
 
@@ -95,7 +95,7 @@ Zihan Chen, Henry Chen, Xiangyu Gao, Yuwei Jin, Minghao Guo, Enhyeok Jang, **Jia
 [[Poster](https://cesartwothousands.github.io/static/image/phasepoly/QCE%2725%20poster.pdf)]
 [[Code](https://github.com/ruadapt/PhasePoly)]
 
-### 2024
+### Graph Learning & Community Detection
 
 **[A Comprehensive Review of Community Detection in Graphs](https://www.sciencedirect.com/science/article/pii/S0925231224009408)**
 
@@ -106,7 +106,7 @@ Zihan Chen, Henry Chen, Xiangyu Gao, Yuwei Jin, Minghao Guo, Enhyeok Jang, **Jia
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231224009408)]
 [[arXiv](https://arxiv.org/abs/2309.11798)]
 
-### 2023
+---
 
 **[Community Detection Using Revised Medoid-Shift Based on KNN](https://link.springer.com/chapter/10.1007/978-981-99-4752-2_29)**
 
