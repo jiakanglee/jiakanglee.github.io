@@ -39,7 +39,7 @@ Before joining Rutgers, I received my B.S. in Computer Science from Lanzhou Univ
 <sup>†</sup> Equal contribution.  
 <sup>*</sup> Corresponding author.
 
-### Large Language Model Reasoning & Scalable Oversight
+<h3 style="font-size: 1.55em; font-weight: 700; margin-top: 2.2em; margin-bottom: 1em; padding-bottom: 0.35em; border-bottom: 2px solid #e5e5e5;">Large Language Model Reasoning &amp; Scalable Oversight</h3>
 
 **[Latent Reward Steering: An Adaptive Inference-Time Framework that Implicitly Promotes Cognitive Behaviors in Reasoning LLMs](https://arxiv.org/abs/2606.00726)**
 
@@ -61,7 +61,7 @@ Can Jin<sup>†</sup>, **Jiakang Li**<sup>†</sup>, Rui Wu, Eddy Zhang, and Dim
 [[Paper](https://icml.cc/virtual/2026/82449)]
 [[arXiv](https://arxiv.org/abs/2606.00424)]
 
-### Quantum Computing Systems, Compilation & Simulation
+<h3 style="font-size: 1.55em; font-weight: 700; margin-top: 2.2em; margin-bottom: 1em; padding-bottom: 0.35em; border-bottom: 2px solid #e5e5e5;">Quantum Computing Systems, Compilation &amp; Simulation</h3>
 
 **[Linear Complexity Fermionic Simulation on Quantum Devices with Hardware Connectivity Constraints](https://arxiv.org/abs/2606.00982)**
 
@@ -95,7 +95,7 @@ Zihan Chen, Henry Chen, Xiangyu Gao, Yuwei Jin, Minghao Guo, Enhyeok Jang, **Jia
 [[Poster](https://cesartwothousands.github.io/static/image/phasepoly/QCE%2725%20poster.pdf)]
 [[Code](https://github.com/ruadapt/PhasePoly)]
 
-### Graph Learning & Community Detection
+<h3 style="font-size: 1.55em; font-weight: 700; margin-top: 2.2em; margin-bottom: 1em; padding-bottom: 0.35em; border-bottom: 2px solid #e5e5e5;">Graph Learning &amp; Community Detection</h3>
 
 **[A Comprehensive Review of Community Detection in Graphs](https://www.sciencedirect.com/science/article/pii/S0925231224009408)**
 
