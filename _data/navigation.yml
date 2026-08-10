@@ -1,32 +1,21 @@
-# main links links
+# Main navigation: all links stay on the homepage and jump to sections.
 main:
   - title: "About Me"
-    url: "/#about-me"
-  - title: "Blogs"
-    url: "/#-blogs"
+    url: "#about-me"
+
+  - title: "Research"
+    url: "#research-interests"
+
   - title: "News"
-    url: "/#-news"
+    url: "#news"
 
   - title: "Publications"
-    url: "/#-publications"
-    
-  - title: "Research Experience"
-    url: "/#-research-experience"
-    
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "#selected-publications"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "#education"
 
-  - title: "Teaching Experience"
-    url: "/#-teaching-experience"
+  - title: "Teaching"
+    url: "#teaching-experience"
 
-  - title: "Academic Service"
-    url: "/#-academic-service"
-    
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
+  -
