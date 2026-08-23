@@ -45,7 +45,7 @@ Before joining Rutgers, I received my B.S. in Computer Science from Lanzhou Univ
 
 **Jiakang Li**<sup>†</sup>, Guanyu Zhu<sup>†</sup>, Can Jin<sup>†</sup>, Chenxi Huang, Dexu Yu, Ronghao Chen, Yang Zhou, Hongwu Peng, Xuanqi Lan, Dimitris N. Metaxas<sup>*</sup>, and Youhua Li<sup>*</sup>
 
-*arXiv preprint*, 2026.
+*EMNLP*, 2026.
 
 [[Paper](https://arxiv.org/abs/2606.00726)]
 [[Code](https://github.com/jiakanglee/Latent-Reward-Steering)]
