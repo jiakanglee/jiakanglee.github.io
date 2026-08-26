@@ -12,7 +12,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Zheng (Eddy) Z. Zhang](https://people.cs.rutgers.edu/zz124/).
 
-My research lies at the intersection of **quantum computing systems**, **compiler optimization**, and **artificial intelligence**. On the quantum computing side, I work on Hamiltonian simulation, fermionic simulation, quantum circuit compilation, and hardware-aware optimization. On the artificial intelligence side, I am interested in improving the reasoning capabilities of large language models through inference-time steering, scalable oversight, and weak-to-strong learning.
+My research lies at the intersection of **quantum computing systems**, and **LLM reasoning**. On the quantum computing side, I work on Hamiltonian simulation, fermionic simulation, quantum circuit compilation, and hardware-aware optimization. On the LLM reasoning, I am interested in improving the reasoning capabilities of large language models through inference-time steering, scalable oversight, and weak-to-strong learning.
 
 Before joining Rutgers, I received my B.S. in Computer Science from Lanzhou University, where I worked with Prof. [Yonggang Lu](https://www.researchgate.net/profile/Yonggang-Lu) on graph machine learning and community detection. I also worked with Prof. [Fajie Yuan](https://fajieyuan.github.io/) at Westlake University on deep learning for biological applications.
 
@@ -20,11 +20,8 @@ Before joining Rutgers, I received my B.S. in Computer Science from Lanzhou Univ
 
 ## Research Interests
 
-- **Quantum compilation and system software**, including compilation from physical Hamiltonians to executable quantum circuits.
 - **Hamiltonian and fermionic simulation**, particularly on emerging and hardware-constrained quantum architectures.
-- **Quantum circuit synthesis and optimization**, including hardware-aware mapping, routing, and circuit transformation.
 - **Large language model reasoning**, including inference-time steering, scalable oversight, and weak-to-strong learning.
-- **AI for scientific discovery**, with applications in quantum computing, graph learning, and computational biology.
 
 ## News
 
