@@ -12,31 +12,26 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Zheng (Eddy) Z. Zhang](https://people.cs.rutgers.edu/zz124/).
 
-My research lies at the intersection of **quantum computing systems**, and **LLM reasoning**. On the quantum computing side, I work on Hamiltonian simulation, fermionic simulation, quantum circuit compilation, and hardware-aware optimization. On the LLM reasoning, I am interested in improving the reasoning capabilities of large language models through inference-time steering, scalable oversight, and weak-to-strong learning.
+My research interest always lies in interesting questions. Most recently, I have explored around LLM reasoning and quantum architecture. But I'm currenrly exploring much more critical and interesting problem.
 
-Before joining Rutgers, I received my B.S. in Computer Science from Lanzhou University, where I worked with Prof. [Yonggang Lu](https://www.researchgate.net/profile/Yonggang-Lu) on graph machine learning and community detection. I also worked with Prof. [Fajie Yuan](https://fajieyuan.github.io/) at Westlake University on deep learning for biological applications.
+Before joining Rutgers, I received my B.S. in Computer Science from Lanzhou University, where I worked with Prof. [Yonggang Lu](https://www.researchgate.net/profile/Yonggang-Lu) on community detection. I also worked with Prof. [Fajie Yuan](https://fajieyuan.github.io/) at Westlake University on building protein language model to predict the 3D structure of protein.
 
 [![Google Scholar Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjiakanglee%2Fjiakanglee.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=googlescholar&label=Citations&color=4285F4)](https://scholar.google.com/citations?user=FVJO7aAAAAAJ&hl=en)
 
 ## Research Interests
 
-- **Hamiltonian and fermionic simulation**, particularly on emerging and hardware-constrained quantum architectures.
-- **Large language model reasoning**, including inference-time steering, scalable oversight, and weak-to-strong learning.
+**All Kinds of Interesting Questions**. I love communicating with people and brainstorming new ideas on quesitons interesting to me together.
 
 ## News
 
-- **Jul. 2026:** Released an updated version of **Latent Reward Steering (LRS)**.
-- **Jun. 2026:** Released new preprints on weak-critic scalable oversight and hardware-aware fermionic simulation.
-- **Jun. 2025:** Our paper **Genesis** was presented at ISCA 2025 in Tokyo, Japan.
-- **May 2025:** Received an **ISCA Student Travel Award**.
-- **Jul. 2024:** Our survey on community detection was published in *Neurocomputing*.
+- **Sept. 2026:** Preparing for Qualifying Exam/ Finding an internship/ Working on an interesting question independently.
 
 ## Selected Publications
 
 <sup>†</sup> Equal contribution.  
 <sup>*</sup> Corresponding author.
 
-<h3 style="font-size: 1.55em; font-weight: 700; margin-top: 2.2em; margin-bottom: 1em; padding-bottom: 0.35em; border-bottom: 2px solid #e5e5e5;">Large Language Model Reasoning &amp; Scalable Oversight</h3>
+<h3 style="font-size: 1.55em; font-weight: 700; margin-top: 2.2em; margin-bottom: 1em; padding-bottom: 0.35em; border-bottom: 2px solid #e5e5e5;">Large Language Model Reasoning </h3>
 
 **[Latent Reward Steering: An Adaptive Inference-Time Framework that Implicitly Promotes Cognitive Behaviors in Reasoning LLMs](https://arxiv.org/abs/2606.00726)**
 
@@ -58,7 +53,7 @@ Can Jin<sup>†</sup>, **Jiakang Li**<sup>†</sup>, Rui Wu, Eddy Zhang, and Dim
 [[Paper](https://icml.cc/virtual/2026/82449)]
 [[arXiv](https://arxiv.org/abs/2606.00424)]
 
-<h3 style="font-size: 1.55em; font-weight: 700; margin-top: 2.2em; margin-bottom: 1em; padding-bottom: 0.35em; border-bottom: 2px solid #e5e5e5;">Quantum Computing Systems, Compilation &amp; Simulation</h3>
+<h3 style="font-size: 1.55em; font-weight: 700; margin-top: 2.2em; margin-bottom: 1em; padding-bottom: 0.35em; border-bottom: 2px solid #e5e5e5;">Quantum Computing Architecture</h3>
 
 **[Linear Complexity Fermionic Simulation on Quantum Devices with Hardware Connectivity Constraints](https://arxiv.org/abs/2606.00982)**
 
