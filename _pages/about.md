@@ -165,8 +165,8 @@ Research areas: quantum computing systems, compiler optimization, and large lang
 
 ## Beyond Research
 
-Outside research, I enjoy competitive MOBA games, singing, and community building. I also create content about *Arena of Valor* and other MOBA games.
+Outside research, I enjoy competitive MOBA games like DOTA and AOV, singing, and community building. I love sharing my thoughts and experiences in Redone.
 
 I am the founder of the [Lanzhou University Flyer organization](https://lzufly.github.io/), a student-led initiative that connects current students with alumni and shares information about graduate study, career development, and international opportunities.
 
-I enjoy meeting people with different backgrounds and exploring new research ideas. Feel free to reach out if you would like to discuss quantum computing, large language models, AI for science, academic collaboration, or shared interests.
+I enjoy meeting people with different backgrounds and exploring new research ideas. Feel free to reach out if you would like to discuss LLM and Quantum Computing.
