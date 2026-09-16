@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I am a 3-rd year Computer Science Ph.D. student at [Rutgers University](https://www.rutgers.edu/). I'm currently looking for a new phd supervisor at Rutgers that are simultaneously interested in AI and quantum. Previously I was advised by Prof. [Zheng (Eddy) Z. Zhang](https://people.cs.rutgers.edu/zz124/).
+I am a 3-rd year Computer Science Ph.D. student at [Rutgers University](https://www.rutgers.edu/). I'm currently looking for a **new phd supervisor** at Rutgers that are simultaneously interested in AI and quantum, also I'm looking for an **internship starting 2027 Summer**. Previously I was advised by Prof. [Zheng (Eddy) Z. Zhang](https://people.cs.rutgers.edu/zz124/).
 
 My research interest always lies in interesting questions. Most recently, I have explored LLM reasoning **[EMNLP2026](https://arxiv.org/abs/2606.00726)** , **[ICML2026@ai4math](https://icml.cc/virtual/2026/82449)** and quantum architecture **[ISCA2025](https://dl.acm.org/doi/10.1145/3695053.3731065)**, **[2026](https://arxiv.org/abs/2606.00982)**. 
 
@@ -133,7 +133,7 @@ Research areas: quantum computing systems, compiler optimization, and large lang
 - **Massachusetts Institute of Technology** — Winter Course in Vision Science, Jan.–Feb. 2021.
 
 ## Teaching Experience
-
+- **Teaching Assistant**, CS 214: System Programming, Rutgers University, Fall 2026.
 - **Teaching Assistant**, CS 314: Principles of Programming Languages, Rutgers University, Spring 2026.
 - **Teaching Assistant**, CS 461: Machine Learning Principles, Rutgers University, Fall 2025.
 - **Teaching Assistant**, CS 415: Compilers, Rutgers University, Spring 2025.
