@@ -59,7 +59,7 @@ Can Jin<sup>†</sup>, **Jiakang Li**<sup>†</sup>, Rui Wu, Eddy Zhang, and Dim
 
 Xiangyu Gao<sup>†</sup>, Winston Li<sup>†</sup>, **Jiakang Li**, Zirui Li, Yipeng Huang, Costin Iancu, and Eddy Z. Zhang
 
-*arXiv preprint*, 2026.
+*ASPLOS*, 2026.
 
 [[Paper](https://arxiv.org/abs/2606.00982)]
 
