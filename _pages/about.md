@@ -24,7 +24,7 @@ Before joining Rutgers, I received my B.S. in Computer Science from Lanzhou Univ
 
 ## News
 
-- **Sept. 2026:** Collaborating with Professor [Mario Szegedy](https://people.cs.rutgers.edu/~szegedy/homepage.html) on defining an interesting problem.
+- **Sept. 2026:** Collaborating with Professor [Mario Szegedy](https://people.cs.rutgers.edu/~szegedy/homepage.html) on defining an interesting problem in the intersection of AI/Quantum/Game.
 
 ## Selected Publications
 
