@@ -20,7 +20,11 @@ Before joining Rutgers, I received my B.S. in Computer Science from Lanzhou Univ
 
 ## Research Interests
 
-**All Kinds of Interesting Questions**. I love communicating with people and brainstorming new ideas on quesitons interesting to me together.
+**efficient/scalable LLM post training**. I'm trying to empirically and theoretically research on the efficiency and scalableness of post training methods for reasoning LLMs.
+
+**AI 4 Quantum**. Quantum computing is the future, I'm trying to dive deep in the bottleneck of achieving error/noise-free quantum computing and see if there exists any AI solutions.
+
+**Latents inventions and sensitivity**. I'm trying to understand the sensitivity (quantization) and interventions on latents (steering) for LLM reasoning. 
 
 ## News
 
