@@ -20,15 +20,17 @@ Before joining Rutgers, I received my B.S. in Computer Science from Lanzhou Univ
 
 ## Research Interests
 
-**efficient/scalable LLM post training**. I'm trying to empirically **[ICML2026@ai4math](https://icml.cc/virtual/2026/82449)** and theoretically research on the efficiency and scalableness of post training methods for reasoning LLMs.
+**efficient/scalable LLM post training**. I'm trying to empirically and theoretically research on the efficiency and scalableness **[ICML2026@ai4math](https://icml.cc/virtual/2026/82449)** of post training methods for improving the reasoning of LLMs.
 
-**AI 4 Quantum**. Quantum computing **[ISCA2025](https://dl.acm.org/doi/10.1145/3695053.3731065)**, **[ASPLOS2026](https://arxiv.org/abs/2606.00982)** is the future, I'm trying to dive deep in the bottleneck of achieving error/noise-free quantum computing and see if there exists any AI solutions.
+**AI 4 Quantum**. Quantum computing is the future and is shifting from NISQ **[ISCA2025](https://dl.acm.org/doi/10.1145/3695053.3731065)**, **[ASPLOS2026](https://arxiv.org/abs/2606.00982)** to FTQC, the next bottleneck lies in achieving error/noise-free quantum computing and I want to see if there exists any AI solutions in FTQC.
 
 **Latents inventions and sensitivity**. I'm trying to understand the sensitivity (quantization) and interventions on latents (steering) **[EMNLP2026](https://arxiv.org/abs/2606.00726)** for LLM reasoning. 
 
 ## News
 
-- **Sept. 2026:** Collaborating with Professor [Mario Szegedy](https://people.cs.rutgers.edu/~szegedy/homepage.html) on defining an interesting problem in the intersection of AI/Quantum/Game.
+- **Nov. 2026:** Submitting one co-first author paper on latent quantization to CVPR2027.
+
+- **Sept. 2026:** Collaborating with Professor [Mario Szegedy](https://people.cs.rutgers.edu/~szegedy/homepage.html) on defining an interesting theoretical problem in the intersection of AI/Quantum/Game.
 
 ## Selected Publications
 
