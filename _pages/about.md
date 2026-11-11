@@ -22,7 +22,7 @@ Before joining Rutgers, I received my B.S. in Computer Science from Lanzhou Univ
 
 **efficient/scalable LLM post training**. I'm trying to empirically and theoretically research on the efficiency and scalableness **[ICML2026@ai4math](https://icml.cc/virtual/2026/82449)** of post training methods for improving the reasoning of LLMs.
 
-**AI 4 Quantum**. Quantum computing is the future and is shifting from NISQ **[ISCA2025](https://dl.acm.org/doi/10.1145/3695053.3731065)**, **[ASPLOS2026](https://arxiv.org/abs/2606.00982)** to FTQC, the next bottleneck lies in achieving error/noise-free quantum computing and I want to see if there exists any AI solutions in FTQC.
+**AI 4 Quantum**. Quantum computing is the future and is shifting from NISQ **[ISCA2025](https://dl.acm.org/doi/10.1145/3695053.3731065)**, **[ASPLOS2027](https://arxiv.org/abs/2606.00982)** to FTQC, the next bottleneck lies in achieving error/noise-free quantum computing and I want to see if there exists any AI solutions in FTQC.
 
 **Latents inventions and sensitivity**. I'm trying to understand the sensitivity (quantization) and interventions on latents (steering) **[EMNLP2026](https://arxiv.org/abs/2606.00726)** for LLM reasoning. 
 
