@@ -31,7 +31,7 @@ Before joining Rutgers, I received my B.S. in Computer Science from Lanzhou Univ
   
 - **Nov. 2026:** Submitting one co-first author paper on latent quantization to CVPR2027.
 
-- **Sept. 2026:** Collaborating with Professor [Mario Szegedy](https://people.cs.rutgers.edu/~szegedy/homepage.html) on solving theoretical problems in the intersection of AI/Quantum/Game.
+- **Oct. 2026:** Collaborating with Professor [Mario Szegedy](https://people.cs.rutgers.edu/~szegedy/homepage.html) on solving theoretical problems in the intersection of AI/Quantum/Game.
 
 ## Selected Publications
 
