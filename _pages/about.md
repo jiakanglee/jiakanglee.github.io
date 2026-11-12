@@ -27,10 +27,11 @@ Before joining Rutgers, I received my B.S. in Computer Science from Lanzhou Univ
 **Latents inventions and sensitivity**. I'm trying to understand the sensitivity (quantization) and interventions on latents (steering) **[EMNLP2026](https://arxiv.org/abs/2606.00726)** for LLM reasoning. 
 
 ## News
-
+- **Nov. 2026:** Preparing two first (including one co) author papers on Post-training to ICML2027.
+  
 - **Nov. 2026:** Submitting one co-first author paper on latent quantization to CVPR2027.
 
-- **Sept. 2026:** Collaborating with Professor [Mario Szegedy](https://people.cs.rutgers.edu/~szegedy/homepage.html) on defining an interesting theoretical problem in the intersection of AI/Quantum/Game.
+- **Sept. 2026:** Collaborating with Professor [Mario Szegedy](https://people.cs.rutgers.edu/~szegedy/homepage.html) on solving theoretical problems in the intersection of AI/Quantum/Game.
 
 ## Selected Publications
 
