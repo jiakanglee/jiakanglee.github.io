@@ -158,6 +158,7 @@ Research areas: quantum computing systems, compiler optimization, and large lang
 - Trained a detection model that achieved approximately 90% precision in the target evaluation setting.
 
 ## Academic Service
+**I want to be a reponsible reviewer, so I'll only accept review invitation if my expertise goes beyond that venue**
 
 - Reviewer, **IEEE International Conference on Multimedia and Expo (ICME 2025)**.
 - Reviewer, **International Joint Conference on Neural Networks (IJCNN 2025)**.
