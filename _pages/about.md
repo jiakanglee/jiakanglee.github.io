@@ -12,7 +12,7 @@ redirect_from:
 
 I am a 3-rd year Computer Science Ph.D. student at [Rutgers University](https://www.rutgers.edu/). I'm looking for an **internship starting 2027 Summer**. Previously I was fortunate to be advised by Prof. [Eddy Z. Zhang](https://people.cs.rutgers.edu/zz124/).
 
-My research interest always lies in interesting questions. Most recently, I have explored LLM reasoning **[EMNLP2026](https://arxiv.org/abs/2606.00726)** , **[ICML2026@ai4math](https://icml.cc/virtual/2026/82449)** and quantum architecture **[ISCA2025](https://dl.acm.org/doi/10.1145/3695053.3731065)**, **[ASPLOS2026](https://arxiv.org/abs/2606.00982)**. 
+My research interest always lies in interesting questions. Most recently, I have explored LLM reasoning **[EMNLP2026](https://arxiv.org/abs/2606.00726)** , **[ICML2026@ai4math](https://icml.cc/virtual/2026/82449)** and quantum architecture **[ISCA2025](https://dl.acm.org/doi/10.1145/3695053.3731065)**, **[ASPLOS2027](https://arxiv.org/abs/2606.00982)**. 
 
 Before joining Rutgers, I received my B.S. in Computer Science from Lanzhou University, where I worked with Prof. [Yonggang Lu](https://www.researchgate.net/profile/Yonggang-Lu) on community detection. I also worked with Prof. [Fajie Yuan](https://fajieyuan.github.io/) at Westlake University on building protein language model to predict the 3D structure of protein.
 
@@ -65,9 +65,10 @@ Can Jin<sup>†</sup>, **Jiakang Li**<sup>†</sup>, Rui Wu, Eddy Zhang, and Dim
 
 Xiangyu Gao<sup>†</sup>, Winston Li<sup>†</sup>, **Jiakang Li**, Zirui Li, Yipeng Huang, Costin Iancu, and Eddy Z. Zhang
 
-*ASPLOS*, 2026.
+*ASPLOS*, 2027.
 
-[[Paper](https://arxiv.org/abs/2606.00982)]
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3845814.3850043)]
+[[arxiv](https://arxiv.org/abs/2606.00982)]
 
 ---
 
