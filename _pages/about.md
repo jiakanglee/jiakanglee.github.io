@@ -10,9 +10,9 @@ redirect_from:
 
 ## About Me
 
-I am a 3-rd year Computer Science Ph.D. student at [Rutgers University](https://www.rutgers.edu/). I'm looking for an **internship starting 2027 Summer**. Previously I was fortunate to be advised by Prof. [Eddy Z. Zhang](https://people.cs.rutgers.edu/zz124/).
+I am a 3-rd year Computer Science Ph.D. student at [Rutgers University](https://www.rutgers.edu/). I'm looking for an **internship starting 2027 Summer** to make some impacts in industry. Previously I was fortunate to be advised by Prof. [Eddy Z. Zhang](https://people.cs.rutgers.edu/zz124/).
 
-My research interest always lies in interesting questions. Most recently, I have explored LLM reasoning **[EMNLP2026](https://arxiv.org/abs/2606.00726)** , **[ICML2026@ai4math](https://icml.cc/virtual/2026/82449)** and quantum architecture **[ISCA2025](https://dl.acm.org/doi/10.1145/3695053.3731065)**, **[ASPLOS2027](https://arxiv.org/abs/2606.00982)**. 
+I'm here to play earth online, I value **funniness** for playing everything, why not **explore a variety of interesting topics before diving so so deep in one area**. So my research interest **always lies in interesting questions/problems**. Most recently, I have explored LLM reasoning **[EMNLP2026](https://arxiv.org/abs/2606.00726)** , **[ICML2026@ai4math](https://icml.cc/virtual/2026/82449)** and quantum computing architecture in NISQ era **[ISCA2025](https://dl.acm.org/doi/10.1145/3695053.3731065)**, **[ASPLOS2027](https://arxiv.org/abs/2606.00982)**. 
 
 Before joining Rutgers, I received my B.S. in Computer Science from Lanzhou University, where I worked with Prof. [Yonggang Lu](https://www.researchgate.net/profile/Yonggang-Lu) on community detection. I also worked with Prof. [Fajie Yuan](https://fajieyuan.github.io/) at Westlake University on building protein language model to predict the 3D structure of protein.
 
