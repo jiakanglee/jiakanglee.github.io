@@ -2,52 +2,47 @@ name: Update Google Scholar Citations
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - "google_scholar_crawler/**"
-      - ".github/workflows/google_scholar_crawler.yaml"
   schedule:
     - cron: "0 8 * * *"
 
 permissions:
   contents: write
 
+concurrency:
+  group: google-scholar-citations
+  cancel-in-progress: false
+
 jobs:
   update-citations:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     steps:
-      - name: Check out repository
+      - name: Check out crawler
         uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
-          cache: pip
-          cache-dependency-path: google_scholar_crawler/requirements.txt
+          persist-credentials: false
 
-      - name: Install dependencies
-        run: pip install -r google_scholar_crawler/requirements.txt
+      - name: Check out the published snapshot
+        uses: actions/checkout@v4
+        with:
+          ref: google-scholar-stats
+          path: stats
 
-      - name: Fetch citation data
+      - name: Fetch citation data from SerpApi
+        timeout-minutes: 2
         env:
           GOOGLE_SCHOLAR_ID: FVJO7aAAAAAJ
-        run: python google_scholar_crawler/main.py
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+          SCHOLAR_STATS_DIR: stats
+        run: python3 -u google_scholar_crawler/main.py
 
-      - name: Publish citation JSON branch
+      - name: Publish verified citation data
+        working-directory: stats
         run: |
-          cd google_scholar_crawler/results
-          test -f gs_data.json
-          test -f gs_data_shieldsio.json
-          git init
-          git checkout -b google-scholar-stats
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add gs_data.json gs_data_shieldsio.json
-          git commit -m "Update Google Scholar citation data"
-          git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:google-scholar-stats --force
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git add -- gs_data.json gs_data_shieldsio.json
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Update Google Scholar citation data"
+            git push origin HEAD:refs/heads/google-scholar-stats
+          fi
