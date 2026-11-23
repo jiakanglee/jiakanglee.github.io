@@ -2,119 +2,99 @@ from datetime import datetime, timezone
 import json
 import os
 from pathlib import Path
+import re
+from urllib.error import HTTPError, URLError
+from urllib.parse import urlencode
 from urllib.request import urlopen
 
-from fp.fp import FreeProxy
-from scholarly import ProxyGenerator, scholarly
 
-
-RESULTS_DIR = Path(__file__).resolve().parent / "results"
-RESULTS_DIR.mkdir(parents=True, exist_ok=True)
-
-BAD_FALLBACK_VALUES = {"", "updating", "unavailable", "temporarily unavailable"}
-
-
-def write_results(author: dict, message: str) -> None:
-    with (RESULTS_DIR / "gs_data.json").open("w", encoding="utf-8") as outfile:
-        json.dump(author, outfile, ensure_ascii=False, indent=2)
-
-    shield_data = {
-        "schemaVersion": 1,
-        "label": "citations",
-        "message": str(message),
-        "color": "4285F4",
-    }
-    with (RESULTS_DIR / "gs_data_shieldsio.json").open("w", encoding="utf-8") as outfile:
-        json.dump(shield_data, outfile, ensure_ascii=False)
-
-
-def previous_badge_message() -> str:
-    repo = os.environ.get("GITHUB_REPOSITORY", "jiakanglee/jiakanglee.github.io")
-    url = (
-        f"https://raw.githubusercontent.com/{repo}/"
-        "google-scholar-stats/gs_data_shieldsio.json"
-    )
+def fetch_author(scholar_id, api_key):
+    query = urlencode({
+        "engine": "google_scholar_author",
+        "author_id": scholar_id,
+        "hl": "en",
+        "api_key": api_key,
+    })
+    print("Requesting the Google Scholar author profile from SerpApi.", flush=True)
     try:
-        with urlopen(url, timeout=15) as response:
+        with urlopen(f"https://serpapi.com/search.json?{query}", timeout=30) as response:
             data = json.load(response)
-        message = str(data.get("message", "")).strip()
-        if message.lower() not in BAD_FALLBACK_VALUES:
-            return message
-    except Exception as exc:
-        print(f"Could not read previous badge value: {exc}")
-    return "unavailable"
+    except HTTPError as exc:
+        raise SystemExit(f"SerpApi returned HTTP {exc.code}. Check the API key and quota.") from None
+    except (URLError, TimeoutError):
+        raise SystemExit("The SerpApi request timed out or could not connect.") from None
+    if data.get("error") or data.get("search_metadata", {}).get("status") != "Success":
+        raise ValueError("SerpApi did not return a successful search.")
+    if data.get("search_parameters", {}).get("author_id") != scholar_id:
+        raise ValueError("SerpApi returned a different author ID.")
+    return data
 
 
-def fetch_author(scholar_id: str) -> dict:
-    author = scholarly.search_author_id(scholar_id)
-    scholarly.fill(author, sections=["basics", "indices", "counts"])
-    return author
+def count(value):
+    if type(value) is int and value >= 0:
+        return value
+    if isinstance(value, str) and re.fullmatch(r"[0-9]+", value):
+        return int(value)
+    raise ValueError("Expected a nonnegative citation metric.")
 
 
-def fetch_with_free_proxy(scholar_id: str, attempt: int) -> dict:
-    # free-proxy checks candidate proxies before returning one. We then hand the
-    # selected proxy to scholarly instead of using scholarly.FreeProxies(),
-    # avoiding version/API incompatibilities between scholarly and free-proxy.
-    proxy_url = FreeProxy(
-        https=True,
-        rand=True,
-        timeout=2.0,
-        request_timeout=8,
-    ).get()
-    print(f"Free proxy attempt {attempt}: candidate acquired")
+def update_profile(previous, result, scholar_id):
+    if previous and previous.get("scholar_id") != scholar_id:
+        raise ValueError("The saved profile belongs to a different author.")
+    author = result["author"]
+    if not isinstance(author.get("name"), str) or not author["name"].strip():
+        raise ValueError("The response has no author name.")
+    profile = dict(previous)
+    profile.update(container_type="Author", source="AUTHOR_PROFILE_PAGE",
+                   scholar_id=scholar_id, name=author["name"],
+                   filled=["basics", "indices", "counts"])
+    profile.pop("warning", None)
+    profile.pop("errors", None)
+    for source, target in (("affiliations", "affiliation"), ("thumbnail", "url_picture")):
+        if author.get(source):
+            profile[target] = author[source]
+    if "interests" in author:
+        profile["interests"] = [item["title"] for item in author["interests"]]
 
-    proxy = ProxyGenerator()
-    if not proxy.SingleProxy(http=proxy_url, https=proxy_url):
-        raise RuntimeError("scholarly rejected the selected free proxy")
-
-    scholarly.use_proxy(proxy)
-    return fetch_author(scholar_id)
-
-
-def main() -> None:
-    scholar_id = os.environ["GOOGLE_SCHOLAR_ID"]
-    errors = []
-    author = None
-
-    # First try the GitHub runner directly. It occasionally works and is faster
-    # than using a public proxy.
-    try:
-        print("Trying Google Scholar directly...")
-        author = fetch_author(scholar_id)
-    except Exception as exc:
-        errors.append(f"direct: {type(exc).__name__}: {exc}")
-        print(f"Direct request failed: {exc}")
-
-    # Fall back to several independently selected free proxies.
-    if author is None:
-        for attempt in range(1, 5):
-            try:
-                author = fetch_with_free_proxy(scholar_id, attempt)
-                break
-            except Exception as exc:
-                errors.append(f"proxy {attempt}: {type(exc).__name__}: {exc}")
-                print(f"Free proxy attempt {attempt} failed: {exc}")
-
-    if author is not None:
-        author["updated"] = datetime.now(timezone.utc).isoformat()
-        citation_count = str(author["citedby"])
-        write_results(author, citation_count)
-        print(f"Google Scholar citations: {citation_count}")
-        return
-
-    # All attempts failed. Keep the last known good citation value so the
-    # homepage badge never becomes a broken resource or causes the workflow to
-    # fail merely because Google Scholar blocked today's requests.
-    previous = previous_badge_message()
-    fallback = {
-        "scholar_id": scholar_id,
-        "updated": datetime.now(timezone.utc).isoformat(),
-        "warning": "All Google Scholar fetch attempts failed; retained last known badge value.",
-        "errors": errors,
+    cited_by = result["cited_by"]
+    metrics = {key: values for row in cited_by["table"] for key, values in row.items()}
+    fields = {"citations": "citedby", "h_index": "hindex", "i10_index": "i10index"}
+    for api_name, saved_name in fields.items():
+        values = metrics[api_name]
+        recent = [key for key in values if re.fullmatch(r"since_[0-9]{4}", key)]
+        if len(recent) != 1:
+            raise ValueError(f"Missing or ambiguous recent period for {api_name}.")
+        profile[saved_name] = count(values["all"])
+        profile[saved_name + "5y"] = count(values[recent[0]])
+    profile["cites_per_year"] = {
+        str(count(row["year"])): count(row["citations"]) for row in cited_by["graph"]
     }
-    write_results(fallback, previous)
-    print("All Google Scholar attempts failed.")
-    print(f"Keeping previous citation badge value: {previous}")
+    profile["updated"] = datetime.now(timezone.utc).isoformat()
+    return profile
+
+
+def main():
+    scholar_id = os.environ["GOOGLE_SCHOLAR_ID"]
+    api_key = os.environ.get("SERPAPI_KEY", "").strip()
+    if not api_key:
+        raise SystemExit("Add SERPAPI_KEY to the repository's Actions secrets.")
+    default_dir = Path(__file__).resolve().parent / "results"
+    directory = Path(os.environ.get("SCHOLAR_STATS_DIR", default_dir))
+    profile_path = directory / "gs_data.json"
+    previous = json.loads(profile_path.read_text(encoding="utf-8")) if profile_path.exists() else {}
+    result = fetch_author(scholar_id, api_key)
+    try:
+        profile = update_profile(previous, result, scholar_id)
+    except (KeyError, TypeError, ValueError) as exc:
+        raise SystemExit(f"Incomplete Scholar data. The saved snapshot was kept. {exc}") from None
+
+    badge = {"schemaVersion": 1, "label": "citations",
+             "message": str(profile["citedby"]), "color": "4285F4"}
+    directory.mkdir(parents=True, exist_ok=True)
+    for name, data in (("gs_data.json", profile), ("gs_data_shieldsio.json", badge)):
+        (directory / name).write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n",
+                                      encoding="utf-8")
+    print(f"Google Scholar citations: {profile['citedby']}")
 
 
 if __name__ == "__main__":
